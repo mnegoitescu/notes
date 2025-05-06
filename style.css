@@ -1,0 +1,39 @@
+/* General options */
+:root {
+    --bg: #ffffff;
+    --fg: #000000;
+    --gr: #555555;
+    --hl: #3000ba;
+    --ln: #ba3030;
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+	--bg: #222222;
+	--fg: #ffffff;
+	--gr: #9f9f9f;
+    }
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--fg);
+    font-family: serif, sans-serif;
+    font-size: 1.2em;
+    line-height: 1.4;
+}
+
+#main {
+    max-width: 800px;
+    margin: auto;
+}
+
+.line-block { color: var(--gr); }
+
+a { color: var(--ln); }
+a:hover { color: var(--hl); }
+
+/* Tables */
+th, td {
+    padding: 5px;
+    border: 1px solid var(--gr);
+}

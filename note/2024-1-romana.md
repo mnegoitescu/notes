@@ -1,13 +1,7 @@
 ---
 title: "Evoluția literaturii românești de la începuturi până la iluminism"
-author: "Negoițescu Mario"
-geometry: margin=2cm
-documentclass: extarticle
-fontsize: 14pt
-output: pdf_document
+lang: ro
 ---
-
-\newpage
 
 # Geneza limbii române
 
@@ -17,11 +11,9 @@ După ce Dacia a fost părăsită de armata și imperiul roman din anul 275, a �
 
 Slavona a fost folosită pentru o lungă perioadă de timp drept limbă oficială, în biserică și în cancelariile domnești, în relațiile externe și în comerț. Cu toate acestea, influențele slave nu au afectat gramatica sau structura principal latină a limbii române, ceea ce indică o limbă deja formată în secolul al VI-lea, înainte de așezarea slavilor.
 
-\pagebreak
-
 # Începuturile scrisului în limba română
 
-Cel mai vechi document păstrat scris în limba română este _Scrisoarea lui Neacșu din Câmpulung_[^*], din anul 1521. Scrisoarea este adresată judelui Hanăș Bengner al orașului Brașov, și dezvăluie contextul politic și social din această perioadă (amenințarea armatelor turcești din sud).
+Cel mai vechi document păstrat scris în limba română este _Scrisoarea lui Neacșu din Câmpulung_[^scrisoare], din anul 1521. Scrisoarea este adresată judelui Hanăș Bengner al orașului Brașov, și dezvăluie contextul politic și social din această perioadă (amenințarea armatelor turcești din sud).
 
 Textul primului document scris în limba română din anul 1521, cu traducerile elementelor din slavonă:
 
@@ -36,13 +28,12 @@ Textul primului document scris în limba română din anul 1521, cu traducerile 
 > _I pak spuĭ domniĭe tale că maĭ marele mĭu, de ce am înțeles și eŭ. Eŭ spuĭ domniĭetale ĭară domniĭata eștĭ înțelept și aceste cuvinte să țiĭ domniĭata la tine, să nu știe umin mulți, și domniile vostre să vă păziți cum știți maĭ bine._  
 > _I bog te veselit. Amin_ (__Și Dumnezeu să te bucure. Amin__)”
 
-[^*]: <https://www.cimec.ro/Istorie/neacsu/rom/scrisoare.htm>
+[^scrisoare]: <https://www.cimec.ro/Istorie/neacsu/rom/scrisoare.htm>
 
 Remarcabilă este latinitatea textului, atât în vocabular cât și în exprimare. Textul poate fi ușor înțeles și în prezent; forma sa este, în esență, foarte asemănătoare cu formele populare ale limbii în prezent (Al. Piru).
 
 Singurele elemente care au nevoie de lămuriri sunt elementele din slavonă prezente în text: formulele de introducere și încheiere, unele cuvinte de legătură și denumiri.
 
-\pagebreak
 
 # Literatura religioasă
 
@@ -68,10 +59,10 @@ Probabil cel mai important rol în dezvoltarea literaturii l-au avut hagiografii
 
 O parte dintre aceste lucrări au fost mai scrise mai întâi fie în greaca bizantină, fie în slavonă, apoi traduse în limba română. (N. Cartojan)
 
-_Viața Sfântului Nifon_ scrisă de Gavriil Protul[^**] -- la cererea domnitorului Țării Românești, Neagoe Basarab (1482 -- 1521), după aducerea moaștelor sfântului în țară -- reprezintă o lucrare importantă atât pentru amânuntele despre viața sfântului, cât și pentru datele istorice și sociale întrețesute. Sunt relatate date istorice pe timpul a patru domni: Radu cel Mare (1496 -- 1508), Mihneal cel Rău (1508 -- 1510), Vlăduț (1510 -- 1512) și Neagoe Basarab (1512 -- 1521).
+_Viața Sfântului Nifon_ scrisă de Gavriil Protul[^prot] -- la cererea domnitorului Țării Românești, Neagoe Basarab (1482 -- 1521), după aducerea moaștelor sfântului în țară -- reprezintă o lucrare importantă atât pentru amânuntele despre viața sfântului, cât și pentru datele istorice și sociale întrețesute. Sunt relatate date istorice pe timpul a patru domni: Radu cel Mare (1496 -- 1508), Mihneal cel Rău (1508 -- 1510), Vlăduț (1510 -- 1512) și Neagoe Basarab (1512 -- 1521).
 Este înfățișată istoria tulbure și dramatică a Țării Românești din această perioadă, până la Neagoe Basarab, împăciuitorul. Sunt arătate în detaliu scenele de conflict și cruzime între domnii anteriori lui Neagoe.
 
-[^**]: Protul este conducătorul comunității monahale de la muntele Athos.
+[^prot]: Protul este conducătorul comunității monahale de la muntele Athos.
 
 _Învățăturile lui Neagoe Basarab către fiul său Teodosie_ este cel mai important monument al cugetării și simțirii românești (N. Cartojan). Textul a fost, de-asemenea, scris mai întâi în limba slavonă, apoi tradus în română în jurul secolului XVII.
 
@@ -83,11 +74,8 @@ La începutul secolului al XVI-lea se realizează primele traduceri ale mai mult
 
 Prima traducere integrală a Vechiului Testament în limba română a fost realizată de Nicolae Milescu-Spătarul (1636 -- 1708) între anii 1661--1668, având ca bază textul grecesc din Septuaginta, care cuprindea Pentateuhul (cele cinci cărți ale lui Moise) și celelalte cărți ale Bibliei ebraice.
 
-Prima traducere tipărită a Noului Testament în limba română, folosind o presă tipografică cu litere slavone, este _Noul Testament de la Bălgrad_, publicat în 1648 în Alba Iulia (în trecut, Bălgrad).
-
+Prima traducere tipărită a Noului Testament în limba română, folosind o presă tipografică cu litere slavone, este _Noul Testament de la Bălgrad_, publicat în 1648 în Alba Iulia (în trecut, Bălgrad).  
 Prima traducere integrală a Bibliei în limba română, apărută în anul 1688, este _Biblia de la București_.
-
-\pagebreak
 
 # Scrierile cu caracter istoric
 
@@ -140,7 +128,6 @@ Se observă și primele forme ale imaginilor artistice și figurilor de stil în
 > _„Fum și umbră sântŭ toate, visuri și părere._  
 > _Ce nu petrece lumea și în ce nu-i cădere?”_
 
-\pagebreak
 
 ## Scrieri enciclopedice
 
@@ -160,7 +147,6 @@ _Istoria ieroglifică_ este o scriere alegorică în care cărturarul critică s
 
 În _Descriptio Moldaviae_, cartea descrie istoria neamurilor românești de la origini până în sec. al XIII-lea și este dedicată aproape în întregime prezentării și susținerii romanității (originii latine), continuității românilor pe pământul fostei Dacii și unității românilor. Textul a fost scris original în limba latină. Cartea este o adevărată enciclopedie românească, conținând informații geografice, politice, folclorice și lingvistice despre Moldova. Dimitrie Cantemir este primul cărturar român care, pe lângă observațiile lingvistice și politice legate de originea românilor, analizează etnografia și folclorul țării.
 
-\pagebreak
 
 # Orientalismul
 
@@ -170,7 +156,6 @@ Odată cu influența sporită a curentelor umaniste și renascentiste în Europa
 
 Nicolae Milescu-Spătarul a fost un mic boier originar din satul Milești, cunoscut și sub numele _Nikolai Spafariĭ_. Cea mai cunoscută operă a sa este jurnalul său de călătorie în Orient, realizat după trimiterea sa în solie în China de către Țarul Aleksei. Este considerat primul călător român în China, iar lucrarea sa este de o importanță istorică, geografică și etnografică deosebită, fiind primul memorial de călătorie scris de un român.
 
-\newpage
 # Bibliografie
 
 * Al. Graur, _Încercare asupra fondului principal al limbii române_, București, 1954

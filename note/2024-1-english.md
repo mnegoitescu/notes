@@ -1,15 +1,7 @@
 ---
 title: "Overview of the history of English literature until the Reformation"
-author: "Negoițescu Mario"
-geometry: margin=2.5cm
-documentclass: extarticle
-fontsize: 14pt
-output: pdf_document
+lang: en
 ---
-
-__WORK IN PROGRESS__
-
-\newpage
 
 # Historical periods of the English language
 
@@ -22,8 +14,6 @@ The history and development of English literature is commonly divided into four 
 * Early Modern English (c. 1600 -- c. 1700)
 
 * Modern English (c. 1700 -- _present_)
-
-\pagebreak
 
 # The Anglo-Saxons
 
@@ -46,8 +36,6 @@ Structurally, the poem presents the features characteristic of all Old English p
 The Old English poetry reflects the changing moral values of the Anglo-Saxons after the introduction of Christianity by the Romans. The religious poetry written in Old English uses many of the themes and elements of the old pagan heroic stories, and combined them with Christian values. Many of the authors enjoyed the pagan stories, and others have written poems reflecting on the changing moral ideals of his people. Despite the dark and sorrowful themes of these poems, their message is a call to righteousness and ataraxia.
 
 In _The Seafarer_, the poet asserts the vanity of earthly possessions and treasures, since it will no longer be of use in the afterlife, nor can it benefit the soul after one's death.
-
-\pagebreak
 
 # Middle English
 
@@ -81,8 +69,6 @@ The poetic work, largely regarded a Chaucer's _magnum opus_ (most important/valu
 
 [^thomas]: Saint Thomas Becket (1119/1120 -- 1170), also known as Saint Thomas of Canterbury, is an English archbishop and martyr.
 
-\pagebreak
-
 # Early Modern English
 
 The development stage of Early Modern English, sometimes referred to as _Shakespeare's English_ or _King James English_[^kjv], started from the beginning of the Tudor period until around the 17th century.
@@ -110,8 +96,6 @@ Shakespeare's plays are divided into three main categories:
 * Tragedies
 
 However, the historical plays are sometimes merged into one category along with the tragedies.
-
-\pagebreak
 
 ### The Comedies
 
@@ -171,8 +155,6 @@ Shakespeare's comedies feature heavily ironic and witty dialogue, clever wordpla
 | _Kinsmen_           |                                | comedy and tragedy              |
 +=====================+================================+=================================+
 
-\pagebreak
-
 ### The Historical Plays
 
 > A historical play is a theatrical genre that focuses on presenting historical events. The genre emerged from tragedy during the Renaissance period in England, and is often considered a subset of tragedy.
@@ -205,8 +187,6 @@ Shakespeare's histories are a collection of biographies of the English kings fro
 | _Henry VIII_          |                | __1509 -- 1547__   | _Tudor father of Queen_   |
 |                       |                |                    | _Elizabeth I_             |
 +-----------------------+----------------+--------------------+---------------------------+
-
-\pagebreak
 
 ### The Tragedies
 
@@ -250,8 +230,6 @@ An overview of Shakespeare's tragedies:
 |                     |                                | himself from all mankind.       |
 +---------------------+--------------------------------+---------------------------------+
 
-\pagebreak
-
 ### The Sonnets
 
 The Sonnets are Shakespeare's most popular and studied literary work. The style of the sonnets is considered a continuation of the sonnet tradition started in the Renaissance by Francis Petrarch in Italy (the name _sonnet_ actually comes from the Italian _sonetto_, meaning "little song"), ultimately refined for the English language by [Henry Howard](https://en.wikipedia.org/wiki/Henry_Howard,_Earl_of_Surrey).
@@ -262,8 +240,6 @@ In total, Shakespeare has written 154 sonnets, which feature a broad selection o
 
 
 [^iambic]: _iambic pentameter_ is a type of metric line in which an unstressed syllable is followed by a stressed syllable.
-
-\newpage
 
 # Bibliography and sources
 
