@@ -111,6 +111,7 @@ Limba lui Miron Costin este îmbogățită de inovații lexicale și sintactice 
 Mai observăm și în cadrul gândirii lui Miron Costin un deosebit respect pentru scris și lectură, cunoștința că scrisul este „iscusită oglindă a minții omenești” (N. Manolescu).
 
 > „Puternicul Dumnezeu, cinstite, iubite cetitoriule, să-ți dăruiască după aceste cumplite vremi anilor noștri, cândva și mai slobode veacuri, întru care, pe lângă alte trebi, să aibi vreme și cu cetitul cărților a face iscusită zăbavă, că nu ieste alta și mai frumoasă și mai de folos în toată viiața omului zăbavă decâtŭ cetitul cărților... Citește cu sănătate această a noastră cu dragoste osteneală.”
+ 
 ## Începuturile poeziei
 
 Pe lânga contribuțiile sale pentru _Letopisețul Țării Moldovei_, Miron Costin a creat una dintre primele opere poetice în limba româna, _Viiața lumii_, un poem filosofic care se inspiră din cartea biblică a _Ecleziastului_ și preia tema _fortuna labilis_, de soartă schimbătoare a omului în fața trecerii timpului. În poemul său, problema ireversibilității timpului și a firii păcătoase a omului sunt combinate într-un discurs moralizator despre credință și autoritatea lui Dumnezeu peste toată creația.
