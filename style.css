@@ -8,9 +8,11 @@
 }
 @media (prefers-color-scheme: dark) {
     :root {
-	--bg: #222222;
+	--bg: #302a20;
 	--fg: #ffffff;
 	--gr: #9f9f9f;
+    	--hl: #5080da;
+    	--ln: #fa3030;
     }
 }
 
