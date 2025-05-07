@@ -135,19 +135,31 @@ _The Life and Opinions of Tristram Shandy, Gentleman_ is a comic novel written b
 
 ### William Blake
 
+William Blake (1757 -- 1827) was an English poet, illustrator, and painter, posessing an impressive imagination due to the visions he has experienced since his childhood. William's work was diverse and rich in themes and motives, but focused almost entirely on Religion, through which he sought to develop his idea of imagination as "the body of God".
+
+Two of Blake's most studied collection of poems are _Songs of Innocence_, published in 1789, and _Songs of Experience_, published in 1794, which were later combined into one collection entitled _Songs of Innocence and of Experience: Shewing the Two Contrary States of the Human Soul_, in 1794, featuring colored illustrations representing each poem. Both volumes were redacted entirely by Blake and his wife Catherine Blake, who helped with engraving, coloring, and additional touches.
+
+Blake's work can be considered as the founding stone for Romantic literature in English. As the collection's subtitle may suggest, Blake uses the contrast between the two volumes, one describing the pure and innocent state of childhood, and the other describing the corrupt and fallen world, to illustrate the contrary and uncertain state of mankind's moral and intellectual condition. 
+
 #### The Lamb
 
 #### The Tyger
 
 ### Lord Byron
 
+Lord Byron (1788 -- 1824), also known as George Gordon Byron, was an English poet, known for his extravagant lifestyle and passionate Romantic themes abundant in his poetry.
+
 ## Gothic Literature
 
 ### Bram Stoker
 
+Bram Stoker (1847 -- 1912) was an Irish novelist.
+
 #### _Dracula_
 
 ### Mary Shelley
+
+Mary Wollstonecraft Shelley (1797 -- 1851) was an English novelist known for having written the Gothic novel _Frankenstein_, inspired by her stay at George Byron's villa on the lake of Geneva. Shelley's literary carreer was fruitful, having written many works of considerable success and edited the poems of her husband, Percy Shelley, a Romantic poet.
 
 #### _Frankenstein_
 
@@ -156,7 +168,7 @@ _The Life and Opinions of Tristram Shandy, Gentleman_ is a comic novel written b
 
 * Ifor Evans, _A Short History of English Literature -- Third Edition_, Pelican Books, 1970 
 
-* Ioan Aurel Preda, _English Literature And Civilization: The Renaissance and the Restoration Period (1500-1700)_, Editura Didactică și Pedagogică, Bucharest, 1983 
+* Ioan Aurel Preda, _English Literature and Civilization: The Renaissance and the Restoration Period (1500-1700)_, Editura Didactică și Pedagogică, Bucharest, 1983 
 
 * John William Cousin, [_A Short Biographical Dictionary of English Literature_](https://en.wikisource.org/wiki/A_Short_Biographical_Dictionary_of_English_Literature), 1910
 
