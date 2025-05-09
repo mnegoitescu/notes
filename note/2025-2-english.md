@@ -129,11 +129,24 @@ Laurence Sterne (1713 -- 1768) was also an Anglo-Irish novelist and Anglican cle
 
 ### _The Life and Opinions of Tristram Shandy, Gentleman_
 
-_The Life and Opinions of Tristram Shandy, Gentleman_ is a comic novel written by Laurence Sterne and published in nine volumes, from 1759 to 1767. The novel stood out due and rose to an immediate popularity due to its peculiar and almost cynical style of humour, as well as its whimsical, almost ludic plot and dialogue. An eccentric novel unlike most typical books, considered by many critics puzzling and peculiar. Whereas most stories begin with the main character, the novel's first two volumes describe Tristram's conception and unfortunate series of events that have led to his deplorable condition, as can be seen in the introduction:
+_The Life and Opinions of Tristram Shandy, Gentleman_ is a comic novel written by Laurence Sterne and published in nine volumes, from 1759 to 1767. The novel stood out due and rose to an immediate popularity due to its peculiar and almost cynical style of humour, as well as its whimsical, almost ludic plot and dialogue. An eccentric novel unlike most typical books, considered by many critics puzzling and peculiar. Whereas most stories begin with the main character, the novel's first two volumes describe Tristram's conception and unfortunate series of events that have led to his deplorable condition, told by the man himself, acompanied by his opinions on the matter, as can be seen in the introduction:
 
 | _"I wish either my father or my mother, or indeed both of them, as they were in duty both equally bound to it, had minded what they were about when they begot me; had they duly consider’d how much depended upon what they were then doing; that not only the production of a rational Being was concern’d in it, but that possibly the happy formation and temperature of his body, perhaps his genius and the very cast of his mind; and, for aught they knew to the contrary, even the fortunes of his whole house might take their turn from the humours and dispositions which were then uppermost; Had they duly weighed and considered all this, and proceeded accordingly, I am verily persuaded I should have made a quite different figure in the world, from that, in which the reader is likely to see me. Believe me, good folks, this is not so inconsiderable a thing as many of you may think it; you have all, I dare say, heard of the animal spirits, as how they are transfused from father to son, etc. etc. and a great deal to that purpose: Well, you may take my word, that nine parts in ten of a man’s sense or his nonsense, his successes and miscarriages in this world depend upon their motions and activity, and the different tracks and trains you put them into, so that when they are once set a going, whether right or wrong, ’tis not a half penny matter, away they go cluttering like hey-go-mad; and by treading the same steps over and over again, they presently make a road of it, as plain and as smooth as a garden walk, which, when they are once used to, the Devil himself sometimes shall not be able to drive them off it."_  
 <sup>(Volume 1, Chapter 1)</sup>
 
+One of the novel's themes is Tristram's fate, which has been indeed decided long before his actual birth, as can be seen in the passage above. However, his long stream of unluck setbacks don't end here; in fact, even his name is the result of one of the many tragic errors that happen both before and throughout his life:
+
+| _«"No, no, said my father to Susannah, I'll get up"_  
+| _"There is no time, cried Susannah, the child's as black as my shoe."_  
+| _"Trismegistus, said my father -- But stay; thou art a leaky vessel, Susannah, added my father; canst thou carry Trismegistus in thy head, the length of the gallery without scattering."_  
+| _"Can I?" cried Susannah, shutting the door in a huff._  
+| _"If she can, I'll be shot", said my father, bouncing out of bed in the dark, and groping for his breeches._
+| _Susannah ran with all speed along the gallery._  
+| _My father made all possible speed to find his breeches._  
+| _Susannah got the start, and kept it; "'Tis Tris-something, cried Susannah, There is no christian name in the world, said the curate, beginning with Tris-but Tristram. Then 'tis Tristram-gistus", quoth Susannah._  
+| _"There is no gistus to it, noodle! -- 'tis my own name", replied the curate, dipping his hand as he spoke into the bason -- "Tristram!", said he, etc. etc. etc. etc. so Tristram was I called, and Tristram shall I be to the day of my death.»_
+
+Etymologically, the name _Tristram_ comes from the Latin term "tristis", which means "sad" or "sorrowful", in terms with the outcome of Tristram's naming. 
 
 # Literary Currents and Movements
 
@@ -154,11 +167,81 @@ William Blake (1757 -- 1827) was an English poet, illustrator, and painter, pose
 
 Two of Blake's most studied collection of poems are _Songs of Innocence_, published in 1789, and _Songs of Experience_, published in 1794, which were later combined into one collection entitled _Songs of Innocence and of Experience: Shewing the Two Contrary States of the Human Soul_, in 1794, featuring colored illustrations representing each poem. Both volumes were redacted entirely by Blake and his wife Catherine Blake, who helped with engraving, coloring, and additional touches.
 
-Blake's work can be considered as the founding stone for Romantic literature in English. As the collection's subtitle may suggest, Blake uses the contrast between the two volumes, one describing the pure and innocent state of childhood, and the other describing the corrupt and fallen world, to illustrate the contrary and uncertain state of mankind's moral and intellectual condition. 
+Blake's work can be considered as the founding stone for Romantic literature in English. As the collection's subtitle may suggest, Blake uses the contrast between the two volumes, one describing the pure and innocent state of childhood, and the other describing the corrupt and fallen world, to illustrate the contrary and uncertain state of mankind's moral and intellectual condition. Two poems can be analized to bext exemplify the uniting contrast between the two volumes: _The Lamb_, from _Songs of Innocence_, and _The Tyger_, from _Songs of Experience_.
 
-#### The Lamb
+#### _The Lamb_
 
-#### The Tyger
+The poem's text:
+
+| &emsp; _"Little Lamb who made thee_  
+| &emsp; _Dost thou know who made thee_  
+| _Gave thee life & bid thee feed,_  
+| _By the stream & o'er the mead;_  
+| _Gave thee clothing of delight,_  
+| _Softest clothing wolly bright;_  
+| _Gave thee such a tender voice,_  
+| _Making all the vales rejoice:_  
+| &emsp; _Little Lamb who made thee_  
+| &emsp; _Dost thou know who made thee_
+|  
+| &emsp; _Little Lamb I'll tell thee,_  
+| &emsp; _Little Lamb I'll tell thee:_  
+| _He is called by thy name_  
+| _For he calls himself a Lamb._  
+| _He is meek & he is mild,_  
+| _He became a little child:_  
+| _I a child & thou a lamb,_  
+| _We are called by his name._  
+| &emsp; _Little Lamb God bless thee,_  
+| &emsp; _Little Lamb God bless thee."_
+
+Blake's lyrical and poetic genius shines brightly throughout the poem's verses. It is narrated from a child's point of view (a common theme in _Songs of Innoncence_) who contemplates one of God's creations, and addresses the lamb direclty, presented in the poem through apostrophe[^apostrophe], a poetic device (_Little Lamb, who made thee / Dost thow know who made thee_).
+
+The Christian parallels and message is clear, comparing a lamb to our Lord, Jesus Christ, the one who _"calls himself a Lamb"_, and _"became a little child"_ being born of the Virgin Mary. The title "Lamb of God" is strongly tied to Christian values, appearing in John 1:29, where John the Baptist sees Jesus and proclaims: _"Behold the Lamb of God who takes away the sin of the world"_; it is by this very title that Blake draws the similarities between Christ's peaceful nature and innocence and the meekness and mildness of a lamb (_He is meek & he is mild_). The poem concludes with the reminder that by Jesus's sacrifice on the cross, we are called by His name to follow Him: _I a child & thou a lamb, / We are called by his name."_
+
+One of the poem's primary themes is that of a mild and peaceful creator, a loving God who cares for all of His creation (_Gave thee life & bid thee feed, / By the stream & o'er the mead;_). This is in direct contrast with the way God is described in _The Tyger_, the poem bellow.
+
+[^apostrophe]: Apostrophe is an exclamatory mark used in dramatic plays and poetry where the speaker directly adresses either an object that cannot speak or an individual that is not present.
+
+#### _The Tyger_
+
+The poem's text:
+
+| _"Tyger Tyger. burning bright,_  
+| _In the forests of the night;_  
+| _What immortal hand or eye._  
+| _Could frame thy fearful symmetry?_  
+|  
+| _In what distant deeps or skies._  
+| _Burnt the fire of thine eyes?_  
+| _On what wings dare he aspire?_  
+| _What the hand, dare sieze the fire?_  
+|  
+| _And what shoulder, & what art,_  
+| _Could twist the sinews of thy heart?_  
+| _And when thy heart began to beat._  
+| _What dread hand? & what dread feet?_  
+|  
+| _What the hammer? what the chain,_  
+| _In what furnace was thy brain?_  
+| _What the anvil? what dread grasp._  
+| _Dare its deadly terrors clasp!_  
+|  
+| _When the stars threw down their spears_  
+| _And water'd heaven with their tears:_  
+| _Did he smile his work to see?_  
+| _Did he who made the Lamb make thee?_  
+|  
+| _Tyger Tyger burning bright._  
+| _In the forests of the night:_  
+| _What immortal hand or eye._  
+| _Dare frame thy fearful symmetry?"_  
+
+Compared to the previous poem, _The Tyger_'s style is a lot darker and menacing. The poem's mood is also darker, using imagery that reminds of dangerous and, at times, terrifying objects, emotions, and events. The focus here is on God's power and omnipotence, rather than His peaceful and mild character (_What immortal hand or eye. / Could frame thy fearful symmetry?_), even the lyric voice asks in shock how the same creator described in the previous poem is capable of creating such a ferrocious beast (_Did he who made the Lamb make thee?_). The tiger is described using terminology reminiscent of war, conflict, and conflict (_What the hammer? what the chain, / In what furnace was thy brain? / What the anvil?_).
+
+---
+
+Through juxtaposition, the two poems share a common element which reveals that, despite their stark contrast, there is one theme that unites them: human curiosity. Regardless of our age and background, curiosity is the force that makes all of us ask questions, adress the unadressed, and seek the unknown.
 
 ### Lord Byron
 
@@ -166,17 +249,58 @@ Lord Byron (1788 -- 1824), also known as George Gordon Byron, was an English poe
 
 ## Gothic Literature
 
+Gothic literature can be considered as a "subset" of Romantic literature, in that it heavily borrows from the former, and the two genres are often considered codependent. Much like in Romantic literature, the Gothic genre focuses on supernatural themes, emotions and passions as opposed to pure rationality, and emotionally and spiritually charged places and states of mind. Some of the main Gothic themes that are different from Romanticism are:
+
+* __A presence of the dead and undead, corpses, and anything macabre.__  
+  In Gothic stories, the line between the living and the dead is thin, sometimes nonexistant.
+* __Dark, gloomy and mysterious or haunted places, such as: cemeteries, abandoned castles, dimly lit forests and ghost towns.__  
+  Sometimes, this can also be found in the atmosphere, where actions take place in the dark, during moonless nights or in thunderstorms.
+* __Loneliness and isolation.__  
+  Usually, the main character or chast of characters live in a state of isolation and solitude; either by their own will, or due to an external cause.
+* __Curses, secrets and mysteries.__  
+  Characters can have a secret or a curse that awaits to be discovered, leading to a sentiment of stress and gloom. Sometimes, this leads into the destruction of the cast of characters or entire families.
+
 ### Bram Stoker
 
-Bram Stoker (1847 -- 1912) was an Irish novelist.
+Bram Stoker (1847 -- 1912) was an Irish novelist. He is best known for his Gothic horror novel _Dracula_, considered one of the classics of English literature, that revolutionized the Vampire fiction scene. 
 
 #### _Dracula_
+
+_Dracula_ is a Gothic horror novel written by Bram Stoker's and published in the year 1897. The novel may have been influenced by Jules Verne's 1892 Gothic novel _Le Château des Carpathes_ (_The Carpathian Castle_), but differs in its horror elements and the iconic character of Count Dracula. 
 
 ### Mary Shelley
 
 Mary Wollstonecraft Shelley (1797 -- 1851) was an English novelist known for having written the Gothic novel _Frankenstein_, inspired by her stay at George Byron's villa on the lake of Geneva. Shelley's literary carreer was fruitful, having written many works of considerable success and edited the poems of her husband, Percy Shelley, a Romantic poet.
 
 #### _Frankenstein_
+
+_Frankenstein; or, The Modern Prometheus_, is a Gothic novel written by Mary Shelley and published in the year 1818. The novel was inspired by her trip along with Percy (her husband) and Claire Clairmont[^claire] at George Byron's villa in Geneva after he proposed a writing competition for the best ghost story to pass the time they were spending indoors due to bad weather.
+
+It tells the story of Victor Frankenstein, a young and ambitious scientist, master of alchemy, chemistry, and electricity, who realizes and unorthodox science experiment, creating a sapient creature from the body parts of the dead (later referred to as "Frankenstein's monster), and Victor's subsequent downfall and demise due to refusing to create a female companion for the creature. The novel surprises the reader through its macabre scenes and descriptions, its philosophical stance on humanity's condition, and Frankenstein's monster himself.
+
+Shelley's novel presents many of the core elements of Gothic fiction, such as:
+
+* __Presence of the Supernatural__  
+  From Victor's obession with alchemy, to the creation and awakening of Frankenstein's monster, the novel's plot relies heavily on the supernatural.  
+* __Corpses__  
+  From the beginning, corpses are prevalent throughout the story. The creature is created from the remnants of dead bodies harvested by Victor from graverobbing, creating a terrifying and grotesque image. Victor's indifference and cold demeanour also represents his detachment from humanity and subsequent descent into darkness.  
+* __Location__  
+  Most of the novel takes place at night, during moonless or stormy nights. Victor's creature must be powered using the energy of a shock from a thunderstorm in order to bring him to life. Furthermore, when the creature awakens, Victor can only see him "by the light of the moon", further emphasizing the darkness of the monster.  
+* __Loneliness and Isolation__  
+  Both the protagonist (Victor Frankenstein) and Frankenstein's monster can be characterised by their loneliness and life in isolation.  
+* __Secret and Mystery__  
+  A key element of Gothic literature is the presence of secrets. Frankenstein's secret is unique in that it is not a simple, static secret that awaits to be uncovered, but a living, breathing thing, that will reveal itself.  
+* __Destruction of Family__  
+  Families rarely remain intact in Gothic fiction. Frankenstein is no different in that Victor's entire family and even his friends end up murdered by the monster.
+ 
+
+The novel's subtitle, _The Modern Prometheus_, relates to the first philosophical idea it unravels: a modern rendition of the myth of Prometheus, who was a Titan in Greek mythology attributed with the creation of manking from clay. Likewise, being a creation myth, _Frankenstein_ dwelves into many biblical themes, such as the creation of Adam and the origin of _Good_ and _Evil_.
+
+| _"Oh, Frankenstein, be not equitable to every other, and trample upon me alone, to whom thy justice, and even thy clemency and affection, is most due. Remember, that I am thy creature; I ought to be thy *Adam*; but I am rather the fallen angel, whom thou drivest from joy for no misdeed. Everywhere I see bliss, from which I alone am irrevocably excluded. I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous."_
+
+Another theme tackled by the novel is that of defying nature's laws and Natural Order. In realizing his experiment, Victor can be considered to have infringed God's design for life, creating a living being by himself.
+
+[^claire]: Claire Clairmont (1798 -- 1879) was Mary Shelley's stepsister and Lord Byron's partner and love interest.
 
 
 # Bibliography and Sources
