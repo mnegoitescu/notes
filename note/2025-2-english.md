@@ -117,21 +117,36 @@ Structured as an essay, _A Modest Proposal_ claims to provide a simple and effic
 
 _Gulliver's Travels_ is Swift's most popular and appreciated work, published on published the 28th of October, 1726, under the original title: _"Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships"_. The work serves both as an astounding piece of literature read and enjoyed by all ages, as well as a witful critique of human nature and the Robinsonade literary genre, popularised by Daniel Defoe's _Robinson Crusoe_.
 
-The novel tells the story of Lemuel Gulliver's travels across a wide range of fictional as well as real places: Lilliput (an island inhabited by tiny people), Brobdingnag (an island where everything, including the people, is huge), Laputa, Balnibarbi, Luggnagg, Glubbdubdrib, Japan, and the Land of the Houyhnhnms. Each location that Gulliver visits parodies a type of human flaw, while also making fun of the usually exaggerated and nonsensical travels that had become popular in "traveller's tales" literature. In Swift's own words, he wrote _Gulliver's Travels_ _"to vex the world rather than divert it"_.
+The novel's story is split into four parts, describing Lemuel Gulliver's travels across a wide range of fictional as well as real places: Lilliput (an island inhabited by tiny people), Brobdingnag (an island where everything, including the people, is huge), Laputa, Balnibarbi, Luggnagg, Glubbdubdrib, Japan, and the Land of the Houyhnhnms (a place inhabited by speaking, sentient horses that use a human-like race, called the Yahoos, as slaves). Swift seeks to make fun of the usually exaggerated and nonsensical travels that had become popular in "traveller's tales" literature, as well as parody key elements of his time: politics, religion, science, and philosophy. In Swift's own words, he wrote _Gulliver's Travels_ _"to vex the world rather than divert it"_, and indeed this book's paradox is its popularity as a children's novel and it being a harsh and savage critique on humanity as a whole.
 
 The novel's cultural influence is quite considerable. The term _Lilliputian_ has entered many languages as an adjective for describing anything miniature or delicate; likewise, the term _Brobdingnagian_ is included in the Oxford English Dictionary to describe anything gigantesque.
 
 ## Laurence Sterne
 
-Laurence Sterne (1713 -- 1768) was also an Anglo-Irish novelist and Anglican cleric, and the son of an officer in the army. His most popular work is the comic novel _Tristram Shandy_.
+Laurence Sterne (1713 -- 1768) was also an Anglo-Irish novelist and Anglican cleric, and the son of an officer in the army. His most popular work is the comic novel _Tristram Shandy_. Unlike the previous authors mentioned above, Sterne's writing style is unique in its long essay-like passages, that in some regards can be seen to anticipate the modern writing technique called _'stream of consciousness'_ as can be found in James Joyce's[^joyce] works.
+
+[^joyce]: James Joyce (1882 -- 1941) was an Irish novelist, literary critic, and poet, best known for his novel _Ulysses_ (1922), which pioneered the _stream of consciousness_.
 
 ### _The Life and Opinions of Tristram Shandy, Gentleman_
 
-_The Life and Opinions of Tristram Shandy, Gentleman_ is a comic novel written by Laurence Sterne and published in nine volumes, from 1759 to 1767. The novel stood out due and rose to an immediate popularity due to its peculiar and almost cynical style of humour, as well as its whimsical, almost ludic plot and dialogue.
+_The Life and Opinions of Tristram Shandy, Gentleman_ is a comic novel written by Laurence Sterne and published in nine volumes, from 1759 to 1767. The novel stood out due and rose to an immediate popularity due to its peculiar and almost cynical style of humour, as well as its whimsical, almost ludic plot and dialogue. An eccentric novel unlike most typical books, considered by many critics puzzling and peculiar. Whereas most stories begin with the main character, the novel's first two volumes describe Tristram's conception and unfortunate series of events that have led to his deplorable condition, as can be seen in the introduction:
+
+| _"I wish either my father or my mother, or indeed both of them, as they were in duty both equally bound to it, had minded what they were about when they begot me; had they duly consider’d how much depended upon what they were then doing; that not only the production of a rational Being was concern’d in it, but that possibly the happy formation and temperature of his body, perhaps his genius and the very cast of his mind; and, for aught they knew to the contrary, even the fortunes of his whole house might take their turn from the humours and dispositions which were then uppermost; Had they duly weighed and considered all this, and proceeded accordingly, I am verily persuaded I should have made a quite different figure in the world, from that, in which the reader is likely to see me. Believe me, good folks, this is not so inconsiderable a thing as many of you may think it; you have all, I dare say, heard of the animal spirits, as how they are transfused from father to son, etc. etc. and a great deal to that purpose: Well, you may take my word, that nine parts in ten of a man’s sense or his nonsense, his successes and miscarriages in this world depend upon their motions and activity, and the different tracks and trains you put them into, so that when they are once set a going, whether right or wrong, ’tis not a half penny matter, away they go cluttering like hey-go-mad; and by treading the same steps over and over again, they presently make a road of it, as plain and as smooth as a garden walk, which, when they are once used to, the Devil himself sometimes shall not be able to drive them off it."_  
+<sup>(Volume 1, Chapter 1)</sup>
+
 
 # Literary Currents and Movements
 
 ## Romanticism
+
+Romanticism started off as a literary movement in reaction against Classicism and Neoclassicism, in what is called the Pre-Romantic Age, during roughly the last 30 years of the 1700s. Most of the themes present in Pre-Romantic literature can be found in Romantic literature or have slightly evolved in their fully matured Romantic themes and ideas. Some of the most important Romantic themes are:
+
+* A preference for all that is emotionally and spiritually charged, encapsulated in a few representative locations: ruins, graveyards; as well as states of the mind and soul: solitude, melancholy, nostalgia, reverie.
+* A refusal or distaste for the rigid and sterile style of writing characteristic of texts of the Classical and Neoclassical period, replaced by personal taste, imagination, and the irrational.
+* An increasing passion for the Middle Ages and Mediaeval Times, being seen as a mysterious and vulgar era.
+* An interest for the exotic, strange, and supernatural.
+* An interest in Gothic architecture and society due to its dark and brutal spirit, characteristic of the barbarous period (s. [Gothic Literature](#gothic-literature)).
+* The nobilization of the Natural world and of primitive ways of living (s. [The Noble Savage](https://en.wikisource.org/wiki/The_Noble_Savage)).
 
 ### William Blake
 
@@ -164,11 +179,14 @@ Mary Wollstonecraft Shelley (1797 -- 1851) was an English novelist known for hav
 #### _Frankenstein_
 
 
-# Bibliography
+# Bibliography and Sources
 
+* Elio Chinol, _English Literature: A Historical Survey with an Anthology_ -- Volume 1, Liguori Editore, 1982
 * Ifor Evans, _A Short History of English Literature -- Third Edition_, Pelican Books, 1970 
-
 * Ioan Aurel Preda, _English Literature and Civilization: The Renaissance and the Restoration Period (1500-1700)_, Editura Didactică și Pedagogică, Bucharest, 1983 
-
 * John William Cousin, [_A Short Biographical Dictionary of English Literature_](https://en.wikisource.org/wiki/A_Short_Biographical_Dictionary_of_English_Literature), 1910
 
+---
+
+* [_A Modest Proposal_ on Wikisource](https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_9/A_Modest_Proposal)
+* [_The Life and Opinions of Tristram Shandy, Gentleman_ on Wikisource](https://en.wikisource.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman/)
