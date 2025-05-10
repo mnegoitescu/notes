@@ -266,7 +266,17 @@ Bram Stoker (1847 -- 1912) was an Irish novelist. He is best known for his Gothi
 
 #### _Dracula_
 
-_Dracula_ is a Gothic horror novel written by Bram Stoker's and published in the year 1897. The novel may have been influenced by Jules Verne's 1892 Gothic novel _Le Château des Carpathes_ (_The Carpathian Castle_), but differs in its horror elements and the iconic character of Count Dracula. 
+_Dracula_ is a Gothic horror novel written by Bram Stoker's and published in the year 1897. The novel may have been influenced by Jules Verne's 1892 Gothic novel _Le Château des Carpathes_ (_The Carpathian Castle_), but differs in its horror elements and the iconic character of Count Dracula. Bram Stoker may have also taken inspiration from a great number of Romanian and Slovakian mythology and folklore, as well as the historical figure of Vlad Țepeș (Vlad the Impaler), a Wallachian prince. The name _Dracula_ was likely chosen because it meant 'devil' in Romanian.
+
+The novel's narrative and action is unique, not featuring a single protagonist. The main course of action is related through fictional letters, diary entries, and newspaper articles, and focuses on the Transylvanian nobleman Count Dracula's vampire plague. As is the case with many Gothic novels, _Dracula_ features a considerable number of common Gothic themes and motifs, such as:
+
+* __Heightened emotions__  
+  The majority of the characters are increasingly helpless and terrified as the story progresses.  
+* __Mystery and suspense__  
+  In relation to the previous motif, this results in offering the reader state of suspense. Furthermore, Count Dracula remains hidden throughout most of the story, the cause of vampires being unknown.  
+* __Damsel in distress__  
+  Lucy Westenra (one of the novel's characters) follows the _damsel in distress_ archetype. The most innocent and pure of the girls, she becomes a vampire (a member of the undead) after Count Dracula takes hold of her.  
+
 
 ### Mary Shelley
 
