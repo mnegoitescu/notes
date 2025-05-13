@@ -237,7 +237,7 @@ The poem's text:
 | _What immortal hand or eye._  
 | _Dare frame thy fearful symmetry?"_  
 
-Compared to the previous poem, _The Tyger_'s style is a lot darker and menacing. The poem's mood is also darker, using imagery that reminds of dangerous and, at times, terrifying objects, emotions, and events. The focus here is on God's power and omnipotence, rather than His peaceful and mild character (_What immortal hand or eye. / Could frame thy fearful symmetry?_), even the lyric voice asks in shock how the same creator described in the previous poem is capable of creating such a ferrocious beast (_Did he who made the Lamb make thee?_). The tiger is described using terminology reminiscent of war, conflict, and conflict (_What the hammer? what the chain, / In what furnace was thy brain? / What the anvil?_).
+Compared to the previous poem, _The Tyger_'s style is a lot darker and menacing. The poem's mood is also darker, using imagery that reminds of dangerous and, at times, terrifying objects, emotions, and events. The focus here is on God's power and omnipotence, rather than His peaceful and mild character (_What immortal hand or eye. / Could frame thy fearful symmetry?_), even the lyric voice asks in shock how the same creator described in the previous poem is capable of creating such a ferrocious beast (_Did he who made the Lamb make thee?_). The tiger is described using terminology reminiscent of war, conflict, and big weapons/tools (_What the hammer? what the chain, / In what furnace was thy brain? / What the anvil?_).
 
 ---
 
