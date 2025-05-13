@@ -33,7 +33,7 @@ body {
 
 a { color: var(--ln); }
 a:hover { color: var(--hl); }
-img { max-width: 50%; }
+img { max-width: 40%; }
 
 th, td {
     padding: 5px;
