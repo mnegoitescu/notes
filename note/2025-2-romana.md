@@ -20,6 +20,8 @@ Statuia „Școala Ardeleană” din Cluj, reprezentând de la stânga la dreapt
 
 Școala Ardeleană a fost o mișcare cultural-națională și un curent de idei inspirate din iluminismul francez, cu scopul principal de „luminare” a maselor prin dezvoltarea învățământului românesc în Transilvania. Mișcarea s-a manifestat nu numai prin scrierea mai multor lucrări științifice, istorice și etnografice, dar și prin scrierile unui număr mare de istorici patrioți care doreau rezolvarea drepturilor umane și naționale ale românilor, demonstrând _„cu erudiție romanitatea, continuarea elementului roman și originea comună, prin urmare unitatea de neam a poporului”_ (Al. Piru). 
 
+Cel mai important document care reprezintă manifestul mișcării Școlii Ardelene este _„suplica”_ întitulată _Supplex Libellus Valachorum Transilvanae_, adresată împăratului Leopold II, scrisă în anul 1791, prin care se cerea recunoașterea independenței și drepturilor egale a românilor din Transilvania față de imperiul Austro-Ungar.
+
 ## Samuil Micu
 
 <div class="image">
@@ -34,18 +36,19 @@ A susținut abolirea iobăgiei și asupririi suferite de români, militând pent
 ## Gheorghe Șincai
 Gheorghe Șincai (1754 -- 1816) a fost un istoric și filolog român reprezentant al curentului iluminist și unul dintre membrii fruntași ai Școlii Ardelene. S-a ocupat cu strângerea și compilarea unui material documentar amplu legat de istoria poporului român; adunând documente, inscripții și texte de la istoricii latini și greci, cronicarii români, germani și maghiari într-o colecție de peste două mii de pagini care au fost publicate sub titlul _Rerum Spectantium ad Universam gentem Daco Romanam seu Valachicam summaria Collectio ex diversis authoribus facta a Georgio Gabriele Sinkaj de Eadem Secundum Ordinem Chronologicum_.
 
+A mai scris și _Hronica românilor și a mai multor neamuri_, care nu a fost tipărită decât târziu după moartea sa, cu ajutorul efortului depus de [Mihail Kogălniceanu](#mihail-kogălniceanu).
+
 ## Petru Maior
 Petru Maior (1760 -- 1821) a fost un istoric și filolog român care a participat la scrierea „Supplex”-ului alături de ceilalți reprezentanți ai Școlii Ardelene. Opera sa s-a axat principal pe istorie și filologie, iar stilul său se definește prin caracterul polemic și militant de apărare a latinității poporului român.
 
 În 1812 a publicat _Istoria pentru începutul românilor în Dachia_, în care descrie începuturile neamului român, susținând originea pur latină a românilor și continuitatea din stânga Dunării a popoarelor vorbitoare de română. Susține ideea că dacii au fost complet înlocuiți de romani și că ungurii au ajuns pe pământul Transilvaniei după stabilirea românilor în această zonă.
 
-
-# Ioan Budai-Deleanu
+## Ioan Budai-Deleanu
 Ioan Budai-Deleanu (cc. 1760 -- 1820) este considerat cel mai strălucit reprezentant al Școlii Ardelene. Opera sa s-a preocupat de o arie largă de subiecte și științe (literatură, istorie, filosofie, filologie, drept), iar activitatea sa intelectuală este cea mai apropiată de modelul eruditului iluminat din cultura franceză. A realizat câteva opere istoriografice, dintre care _Introducere istoricească_, o monografie dedicată originii și romanității românilor, este una dintre cele mai semnificative ale sale. 
 
 Dintre contribuțile sale literare, opera sa de căpătâi este _Țiganiada_, prima și unica epopee românească realizată (după _Istoria Ieroglifică_ a lui Dimitrie Cantemir).
 
-## _Țiganiada_
+### _Țiganiada_
 _Țigania sau tabăra țiganilor_ este un poem eroi-comico-satiric scris de filologul, istoricul și poetul Ioan Budai-Deleanu în anul 1812. Poemul este o alegorie izbutită a situației românilor din cele trei popoare vorbitoare de limba română, exemplificată în mod comic prin intermediul satirizării moravurilor și racilelor din societatea vremii sale.
 
 Epopeea este împărțită în 12 „cânturi”, după modelul epopeelor homerice, așa cum afirmă însăși autorul: _„Omer încă de la Illion, tăria Troádei, au numit cântecul său Illiada. Virghil, de la Enèa, eroele pe care au cântat, au chiemat cântarea sa Enèada etc. Și autoriul ceastă istorie a țiganilor numește Țiganiada”._
@@ -99,8 +102,10 @@ Anton Pann (1796 -- 1854) a fost un scriitor, folclorist, profesor de muzică re
 # Pașoptismul
 Pașoptismul a fost o mișcare culturală și națională delimată tradițional între anii 1830 -- 1860. Numele acestei mișcări provine de la mișcarea revoluționară română din anul 1848, fiind prima tentativă la eliberarea și recunoașterea națională a românilor.
 
+Idealurile generației pașoptiste s-au concentrat pe dorința mișcării pentru unire. Astfel, are loc o adevărată renaștere culturală și literară, fiind temelia necesară dezvoltării literaturii cu specific național, autohtonă, care reflectă trecutul istoric, frumusețile patriei și folclorul românesc.
+
 ## I. Heliade-Rădulescu
-Ion Heliade-Rădulescu (1802 -- 1872) este cea mai proeminentă personalitate din generația pașoptistă.
+Ion Heliade-Rădulescu (1802 -- 1872) este cea mai proeminentă personalitate din generația pașoptistă. Activitatea sa culturală a fost vastă, ca profesor, editor, scriitor, poet și gramatician. Contribuie la înființarea mai multor școli, redactează primul ziar din Țara Românească (_Curierul Românesc_), creează primele culegeri de poezii și cântece populare și scrie în anul 1828 celebra _Gramatică românească_, unde susține ortografia fonetică, limba literară standard și adaptarea neologismelor pentru limba română.
 
 | _„Fără cărți naționale,_  
 | _Fără literatură națională,_  
@@ -139,13 +144,27 @@ Costache Negruzzi (1808 -- 1868) este considerat întemeietorul nuvelei istorice
 
 ### _Alexandru Lăpușneanul_
 
-Nuvela apare în anul 1840 în primul număr al revistei culturale _Dacia literară_, întemeiată de M. Kogălniceanu. Opera aderă la unul din idealurile stabilite în articolul program al revistei, anume specificul național. 
+_Alexandru Lăpușneanul_ este o nuvelă scrisă de Costache Negruzzi publicată în anul 1840 în primul număr al revistei culturale _Dacia literară_, întemeiată de M. Kogălniceanu. Nuvela istorică reprezintă câteva dintre idealurile articului program amintit mai sus, în mod deosebit specificul național, fiind inspirată din scrierile lui Grigore Ureche în _Letopisețul Țării Moldovei_. De-asemenea, opera prezintă o influență puternică romantică, exemplificată prin personajul principal, domnitorul Alexandru Lăpușneanul, care acționează în împrejurări excepționale și dispune el însuși de trăsături excepționale.
+
+Voința de fier a domnitorului este descrisă cu un caracter stoic și extraordinar, după cum se poate observa din răspunsul oferit solilor lui Tomșa, care îi cer să renunțe la tron:
+
+| _„Să mă întorc? Mai degrabă-și va întoarce Dunărea cursul îndărăpt.”_
+
+În plus, caracterul său despotic și implacabil este evocat dintr-o singură replică:
+
+| _"Dacă voi nu mă vreți, eu vă vreu... și dacă voi nu mă iubiți, eu vă iubesc pre voi și voi merge ori cu voia, ori fără voia voastră.”_
+
+Una dintre particularitățile operei este compoziția care trimite cu gândul la genurile dramatice, prezentând șirul narativ și acțiunea personajelor predominant prin dialog. Nuvela este împărțită în patru capitole de sine stătătoare, cu titluri preluate din replicile adresate în capitolul respectiv: _„Dacă voi nu mă vreți, eu vă vreu...”_, _„Ai să dai sama, doamnă”_, _„Capul lui Moțoc, vrem!”_, și _„De mă voi scula, pre mulți am să popesc și eu”_.
 
 ## Nicolae Bălcescu
-Nicolae Bălcescu ( -- )
+Nicolae Bălcescu (1819 -- 1852) a fost un istoric și scriitor român care a participat la Revoluția din 1848.
 
 ## Al. Odobescu
-Alexandru Odobescu ( -- )
+Alexandru Odobescu (1834 -- 1895) a fost un scriitor, arheolog, istoric și om politic român.
+
+### Pseudokynegeticos
+
+_Pseudokynegeticos_, sau _Fals tratat de vânătoare_ este un eseu scris Alexandru Odobescu, ascuns sub forma unui tratat de vânătoare.
 
 ## Vasile Alecsandri
 Vasile Alecsandri (cc. 1818 -- 1890) este una dintre cele mai prolifice figuri literare din istoria literaturii române. Considerat de Mihai Eminescu drept „rege al poeziei”, a abordat o pletoră de genuri și specii, atât lirice cât și în proză. A adus în cadrul literaturii române o nouă specie lirică, numită _pastel_[^pastel]
