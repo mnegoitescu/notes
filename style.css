@@ -33,7 +33,13 @@ body {
 
 a { color: var(--ln); }
 a:hover { color: var(--hl); }
-img { max-width: 40%; }
+.image { border: 1px solid var(--gr); padding: 5px; }
+.image, img {
+	display: flex;
+	float: right;
+	max-width: 40%;
+	margin-left: auto;
+}
 
 th, td {
     padding: 5px;

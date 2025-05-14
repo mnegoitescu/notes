@@ -12,18 +12,24 @@ Odată cu dezvoltarea idealurilor filosofice și culturale dezvoltate de umanism
 Așa cum afirmă criticul literar Romul Munteanu, _„întreg poporul român era lipsit de «natio»”_. Aflați între două puteri asupritoare (Austro-Ungaria și Imperiul Otoman), românii, împărțiți între trei popoare cu o limbă și istorie comună, își declară pentru prima oară drepturile și unitatea, punând bazele unirii naționale ce avea să aibă loc peste încă un veac (Unirea Principatelor Române din 1859, urmată de Marea Unire din 1918).
 
 # Școala Ardeleană
+
+<div class="image">
+![scoala-ardeleană](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ScoalaArdeleana_%282%29.JPG/960px-ScoalaArdeleana_%282%29.JPG)  
+Statuia „Școala Ardeleană” din Cluj, reprezentând de la stânga la dreapta pe Petru Maior, Gheorghe Șincai și Samuil Micu.
+</div>
+
 Școala Ardeleană a fost o mișcare cultural-națională și un curent de idei inspirate din iluminismul francez, cu scopul principal de „luminare” a maselor prin dezvoltarea învățământului românesc în Transilvania. Mișcarea s-a manifestat nu numai prin scrierea mai multor lucrări științifice, istorice și etnografice, dar și prin scrierile unui număr mare de istorici patrioți care doreau rezolvarea drepturilor umane și naționale ale românilor, demonstrând _„cu erudiție romanitatea, continuarea elementului roman și originea comună, prin urmare unitatea de neam a poporului”_ (Al. Piru). 
 
-![scoala-ardeleană](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ScoalaArdeleana_%282%29.JPG/960px-ScoalaArdeleana_%282%29.JPG)  
-<sup>Statuia „Școala Ardeleană” din Cluj, reprezentând de la stânga la dreapta pe Petru Maior, Gheorghe Șincai și Samuil Micu.</sup>
-
 ## Samuil Micu
+
+<div class="image">
+![lesicon](https://upload.wikimedia.org/wikipedia/ro/thumb/c/c4/Lexiconul_de_la_Buda_Google_Books.jpg/330px-Lexiconul_de_la_Buda_Google_Books.jpg)  
+Lexiconul de la Buda, primul dicționar cvadrilingv în limba română, la baza căruia au stat cercetările lui Samuil Micu.
+</div>
+
 Samuil Micu (1745 -- 1806) a fost unul dintre întemeietorii Școlii Ardelene. A desfășurat o activitate culturală vastă prin traduceri, opere literare, filosofice, scrieri lingvistice și istorice. Scrierile sale istorice s-au concentrat pe informarea savanților străini despre originile și dorința popoarelor române pentru independență, în limba latină: _Brevis historica notitia originis et progressu nationis Daco-romanae_ (1778). Textele adresate vorbitorilor de română au un caracter de texte pregătitoare pentru conflictele și polemicele politice ce aveau să înceapă, dintre care cea mai importantă lucrare este _Istoria, lucrurile și întâmplările românilor_, împărțită în patru volume, în care este descris și războiul dintre daci și romani.
 
 A susținut abolirea iobăgiei și asupririi suferite de români, militând pentru drepturi egale față de celelalte neamuri. Argumentele sale sunt variate și structurate pe plan istoric, arheologic și chiar lingvistic, realizând prima lucrare lexicografică românească, _Dictionarium latino-valachico-germanico-hungaricarum_ (_Lexiconul de la Buda_), cu definiții dezvoltate. Opera istoricului conține și prima sinteză asupra tuturor românilor, continuând munca începută de Dimitrie Cantemir.
-
-![lesicon](https://upload.wikimedia.org/wikipedia/ro/thumb/c/c4/Lexiconul_de_la_Buda_Google_Books.jpg/330px-Lexiconul_de_la_Buda_Google_Books.jpg)  
-<sup>_Lexiconul de la Buda_</sup>
 
 ## Gheorghe Șincai
 Gheorghe Șincai (1754 -- 1816) a fost un istoric și filolog român reprezentant al curentului iluminist și unul dintre membrii fruntași ai Școlii Ardelene. S-a ocupat cu strângerea și compilarea unui material documentar amplu legat de istoria poporului român; adunând documente, inscripții și texte de la istoricii latini și greci, cronicarii români, germani și maghiari într-o colecție de peste două mii de pagini care au fost publicate sub titlul _Rerum Spectantium ad Universam gentem Daco Romanam seu Valachicam summaria Collectio ex diversis authoribus facta a Georgio Gabriele Sinkaj de Eadem Secundum Ordinem Chronologicum_.
@@ -46,7 +52,7 @@ Epopeea este împărțită în 12 „cânturi”, după modelul epopeelor homeri
 
 Acțiunea are loc în timpul domniei lui Vlad Țepeș, care cere ajutor în lupta contra turcilor (Imperiului Otoman) de la țigani. Comicul este realizat încă de la început prin aventurile extraordinare ale cetelor de țigani (discuțiile purtate între țigani și Vlad Țepeș; căutarea lui Parpangel a iubitei sale Romica, furată de draci; participarea țiganilor la bătălie și, într-un final, dezbaterea pentru stabilirea formei de guvernământ).
 
-Excelent observator al aglomerărilor umane și al mentalității de colectiv, Budai-Deleanu realizează un adevărat tablou al trăsăturilor morale, psihice și fizice ale eroilor din poem. O particularitate a operei este că, spre deosebire de majoritatea epopeelor în care eroii acționează, eroii din _Țiganiada_ mai mult vorbesc, polemizează și explică. Cu toate, acestea, sub influența ideilor iluministe, Budai-Deleanu realizează prin intermediu discuțiilor purtate între țigani o frescă a ideilor începute de mișcarea Școlii Ardelene.
+Excelent observator al aglomerărilor umane și al mentalității de colectiv, Budai-Deleanu realizează un adevărat tablou al trăsăturilor morale, psihice și fizice ale eroilor din poem. O particularitate a operei este că, spre deosebire de majoritatea epopeelor în care eroii acționează, eroii din _Țiganiada_ mai mult vorbesc, polemizează și explică. Cu toate, acestea, sub influența ideilor iluministe, Budai-Deleanu realizează prin intermediul discuțiilor purtate între țigani o frescă a ideilor începute de mișcarea Școlii Ardelene.
 
 Acest aspect este cel mai bine reprezentat în discuțiile purtate despre ideea de libertate de către țigani. Drăghici, liderul cetei fierarilor, pus de Vlad Țepeș să exprime ce este _„slobozia”_, răspunde:
 
@@ -90,22 +96,43 @@ Poeții Văcărești
 ## Anton Pann
 Anton Pann (1796 -- 1854) a fost un scriitor, folclorist, profesor de muzică religioasă și poet român de origine bulgară sau aromână. 
 
-# I. Heliade-Rădulescu
-Ion Heliade-Rădulescu ( -- ) 
+# Pașoptismul
+Pașoptismul a fost o mișcare culturală și națională delimată tradițional între anii 1830 -- 1860. Numele acestei mișcări provine de la mișcarea revoluționară română din anul 1848, fiind prima tentativă la eliberarea și recunoașterea națională a românilor.
+
+## I. Heliade-Rădulescu
+Ion Heliade-Rădulescu (1802 -- 1872) este cea mai proeminentă personalitate din generația pașoptistă.
 
 | _„Fără cărți naționale,_  
 | _Fără literatură națională,_  
 | _Nu póte exista necĭ patrie,_  
 | _Necĭ patriotismŭ, necĭ naționalitate”_
 
-# Mihail Kogălniceanu
+## Mihail Kogălniceanu
 
-## _Dacia literară_
-
+<div class="image">
 ![dacia-literară](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dacia_Literara.jpg/330px-Dacia_Literara.jpg)  
-<sup>_Dacia literară_</sup>
+Revista _Dacia literară_ a fost suspendată după apariția primelor trei volume de către domnitor, până la reluarea sa odată cu ediția a doua, publicată în anul 1859.
+</div>
 
-# Pașoptismul
+Mihail Kogălniceanu (1817 -- 1891) a fost una dintre cele mai importante personalități în dezvoltarea literaturii românești moderne și sincronizarea sa cu literatura universală. Om politic, istoric, publicist și critic literar, a contribuit pentru publicarea textelor vechi românești uitate de timp (letopisețele, istoriografii și texte religioase), promovarea și consolidarea idealului unirii românilor într-o singură națiune și creearea literaturii naționale prin activitatea sa ca redactor al revistei culturale _Dacia literară_, din 31 ianuarie 1940.
+
+### _Dacia literară_
+Revista _Dacia literară_ reprezintă primii pași spre dezvoltarea literaturii românești moderne, punând bazele principiilor ce aveau să fie urmate de marii clasici ai literaturii române (Costache Negruzzi, George Coșbuc, Ion Creangă, Liviu Rebreanu, Mihai Eminescu, Nicolae Iorga, Tudor Arghezi, Vasile Alecsandri, etc.).
+
+Idealurile mișcării pașoptiste sunt sintetizate în articolul program din primul număr al revistei, scris de Mihail Kogălniceanu, întitulat [_Introducție la „Dacia literară”_](https://ro.wikisource.org/wiki/Introduc%C8%9Bie_la_%22Dacia_literar%C4%83%22). Aceste idealuri literare ale scriitorilor pașoptiști pot fi restrânse în patru puncte principale:
+
+* __Renunțarea la imitație și traduceri mediocre din literatura străină__  
+  Dorința de modernizare și sincronizare a literaturii în limba română a dus la crearea unor forme de literatură axate doar pe împrumuturi și traduceri din bibliotecile străine, ceea ce a dus la nașterea teoriei _formelor fără fond_, așa cum se poate observa în articolul program:  
+  _„Dorul imitației s-a făcut la noi o manie primejdioasă, pentru că omoară în noi duhul național. Această manie este mai ales covârșitoare în literatură. Mai în toate zilele ies de sub teasc cărți în limba românească. Dar ce folos! că sunt numai traducții din alte limbi și încă și acele de-ar fi bune. Traducțiile însă nu fac o literatură. Noi vom prigoni cât vom putea această manie ucigătoare a gustului original, însușirea cea mai prețioasă a unei literaturi.”_  
+* __Îmbogățirea literaturii prin specificul național__  
+  Ca parte din renunțarea la _formele fără fond_, se propune crearea unei literaturi autohtone, inspirată din istorie, natură, tradiții și folclor.  
+  _„Istoria noastră are destule fapte eroice, frumoasele noastre țări sunt destul de mari, obiceiurile noastre sunt destul de pitorești și de poetice, pentru ca să putem găsi și la noi sujeturi de scris, fără să avem pentru aceasta trebuință să ne împrumutăm de la alte nații.”_  
+* __Standardizarea limbajului folosit în scriere cu scopul unității limbii__  
+  Se continuă eforturile începute de Școala Ardeleană pentru realizarea unei limbi române comune și standardizată, care să permită comunicarea clară și concisă. Se pun bazele normei literare a limbii, se resping _latinismele_ exagerate și se pledează pentru scrierea fonetică și nu etimologică a limbii.  
+  _„Țălul nostru este realizația dorinței ca românii să aibă o limbă și o literatură comună pentru toți”_  
+* __Dezvoltarea spiritului critic__  
+  Kogălniceanu subliniază că literatura scrisă trebuie să fie interpretată de publicul român cu un spirit critic, obiectiv.  
+  _„Critica noastră va fi nepărtinitoare. Vom critica cartea, iar nu persoana.”_
 
 ## Costache Negruzzi
 Costache Negruzzi (1808 -- 1868) este considerat întemeietorul nuvelei istorice în literatura română. A fost un scriitor prolific al generației pașoptiste, aderând la principiile revistei _Dacia literară_, unde a publicat în primul volum opera sa cea mai cunoscută, _Alexandru Lăpușneanul_. A mai scris, printre altele, _Ștefaniada_, o epopee națională dedicată domnitorului supranumit _„Soarele Moldovei”_.
