@@ -13,10 +13,10 @@ Așa cum afirmă criticul literar Romul Munteanu, _„întreg poporul român era
 
 # Școala Ardeleană
 
-<div class="image">
-![scoala-ardeleană](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ScoalaArdeleana_%282%29.JPG/960px-ScoalaArdeleana_%282%29.JPG)  
+::: image
+![scoala-ardeleană](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ScoalaArdeleana_%282%29.JPG/960px-ScoalaArdeleana_%282%29.JPG)
 Statuia „Școala Ardeleană” din Cluj, reprezentând de la stânga la dreapta pe Petru Maior, Gheorghe Șincai și Samuil Micu.
-</div>
+:::
 
 Școala Ardeleană a fost o mișcare cultural-națională și un curent de idei inspirate din iluminismul francez, cu scopul principal de „luminare” a maselor prin dezvoltarea învățământului românesc în Transilvania. Mișcarea s-a manifestat nu numai prin scrierea mai multor lucrări științifice, istorice și etnografice, dar și prin scrierile unui număr mare de istorici patrioți care doreau rezolvarea drepturilor umane și naționale ale românilor, demonstrând _„cu erudiție romanitatea, continuarea elementului roman și originea comună, prin urmare unitatea de neam a poporului”_ (Al. Piru). 
 
@@ -24,10 +24,10 @@ Cel mai important document care reprezintă manifestul mișcării Școlii Ardele
 
 ## Samuil Micu
 
-<div class="image">
-![lesicon](https://upload.wikimedia.org/wikipedia/ro/thumb/c/c4/Lexiconul_de_la_Buda_Google_Books.jpg/330px-Lexiconul_de_la_Buda_Google_Books.jpg)  
+::: image
+![lesicon](https://upload.wikimedia.org/wikipedia/ro/thumb/c/c4/Lexiconul_de_la_Buda_Google_Books.jpg/330px-Lexiconul_de_la_Buda_Google_Books.jpg)
 Lexiconul de la Buda, primul dicționar cvadrilingv în limba română, la baza căruia au stat cercetările lui Samuil Micu.
-</div>
+:::
 
 Samuil Micu (1745 -- 1806) a fost unul dintre întemeietorii Școlii Ardelene. A desfășurat o activitate culturală vastă prin traduceri, opere literare, filosofice, scrieri lingvistice și istorice. Scrierile sale istorice s-au concentrat pe informarea savanților străini despre originile și dorința popoarelor române pentru independență, în limba latină: _Brevis historica notitia originis et progressu nationis Daco-romanae_ (1778). Textele adresate vorbitorilor de română au un caracter de texte pregătitoare pentru conflictele și polemicele politice ce aveau să înceapă, dintre care cea mai importantă lucrare este _Istoria, lucrurile și întâmplările românilor_, împărțită în patru volume, în care este descris și războiul dintre daci și romani.
 
@@ -88,6 +88,9 @@ Pe parcursul textului, opera este adnotată de diverși comentatori: Erudițianu
 
 [^onochefalos]: όνος (ónos, măgar) + κέφαλος (kéfalos, cap) 
 
+## Latinismul
+
+
 # Poezia neotrubadurească
 
 ## Poeții Văcărești
@@ -114,10 +117,10 @@ Ion Heliade-Rădulescu (1802 -- 1872) este cea mai proeminentă personalitate di
 
 ## Mihail Kogălniceanu
 
-<div class="image">
-![dacia-literară](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dacia_Literara.jpg/330px-Dacia_Literara.jpg)  
+::: image
+![dacia-literară](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dacia_Literara.jpg/330px-Dacia_Literara.jpg)
 Revista _Dacia literară_ a fost suspendată după apariția primelor trei volume de către domnitor, până la reluarea sa odată cu ediția a doua, publicată în anul 1859.
-</div>
+:::
 
 Mihail Kogălniceanu (1817 -- 1891) a fost una dintre cele mai importante personalități în dezvoltarea literaturii românești moderne și sincronizarea sa cu literatura universală. Om politic, istoric, publicist și critic literar, a contribuit pentru publicarea textelor vechi românești uitate de timp (letopisețele, istoriografii și texte religioase), promovarea și consolidarea idealului unirii românilor într-o singură națiune și creearea literaturii naționale prin activitatea sa ca redactor al revistei culturale _Dacia literară_, din 31 ianuarie 1940.
 
@@ -160,11 +163,45 @@ Una dintre particularitățile operei este compoziția care trimite cu gândul l
 Nicolae Bălcescu (1819 -- 1852) a fost un istoric și scriitor român care a participat la Revoluția din 1848.
 
 ## Al. Odobescu
-Alexandru Odobescu (1834 -- 1895) a fost un scriitor, arheolog, istoric și om politic român.
+Alexandru Odobescu (1834 -- 1895) a fost un scriitor, arheolog, istoric și om politic român. Personalitate enciclopedică, a realizat mai multe studii de istorie literară, despre folclor și eseuri. Este autorul unei monografii despre [Tezaurul de la Pietroasa](https://ro.wikipedia.org/wiki/Tezaurul_de_la_Pietroasa), dar și a unui dintre cele mai cunoscute eseuri din perioada sa, Pseudokynegeticos.
 
 ### Pseudokynegeticos
 
-_Pseudokynegeticos_, sau _Fals tratat de vânătoare_ este un eseu scris Alexandru Odobescu, ascuns sub forma unui tratat de vânătoare.
+::: image
+![diana](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Fontaine_Diane_Fountain_Diana_Anet_Louvre_MR_1581%2C_MR_sup_123.jpg/500px-Fontaine_Diane_Fountain_Diana_Anet_Louvre_MR_1581%2C_MR_sup_123.jpg)
+Statuia zeiței Diana a lui Jean Gujon descrisă de Odobescu în eseul său.
+:::
+
+_Pseudokynegeticos_, sau _Fals tratat de vânătoare_[^pseudo] este un eseu scris Alexandru Odobescu, considerat unul dintre cele mai influente eseuri în limba română. Opera descrie cu un farmec deosebit diferite subiecte legate de domeniul cinegetic sub forma unui așa-zis „tratat de vânătoare”. Limbajul este savuros și savant[^limbaj], despre stilul scrierii lui Odobescu, criticul literar G. Călinescu afirmă: „bate câmpii cu grație [...] farmecul său stă în scandalul de a surprinde pe un om atât de serios, schițând cancanul pe scara rulantă a bibliotecii lui înțesată cu autori greci”.
+
+Lucrarea este structurată în 12 capitole și prefațată cu o „epistolă” dedicată domnului C. C. Cornescu, un bun prieten al autorului. Titlul lucrării amintește modul în care opera lui Odobescu a depășit țelul ei original (acela de simplă introducere a vânătoarei reprezentată în arte), ajungând un adevărat eseu, unic în cadrul literaturii române.
+
+Subiectele abordate sunt diverse și vaste, chiar dacă se învârt în jurul vânătoarei. Opera începe cu scena descrierii câmpiei Bărăganului, văzută precum un mirajul, ca celebra _fata morgana_: _„[...] aerul, resfirat în unde diafane sub arșița soarelui de vară, oglindește ierburile și bălțile din depărtare și le preface, dinaintea vederii fermecate, în cetăți cu mii de minarete, în palate cu mii de încântări”_. Sunt descrise în detaliu amplu diferite picturi, sculpturi și alte opere de artă (gravura lui Dürer a sfântului Hubert, statuile zeiței Diana), subiecte filosofice legate de vânătoare -- inclusiv, denumirea unor păsări rare (grive, sturzi, cocoșari) în limbile romanice -- și chiar basme (basmul fiului de împărat cel cu noroc la vânătoare). Eseul cuprinde și o parte autobiografică, dar și un capitol întreg dedicat notițelor extra lăsate de autor, în care se poate observa și o critică a latinismului exagerat. Umorul autorului este observabil până și la ultimul capitol, întitulat „Capitolul cel mai plăcut pentru cititor”, care este o simplă pagină goală.
+
+[^pseudo]: Titlul lucrării provine din termenii grecești „pseudo” (_ψευδο_, fals) și kinĕgetikos (_κυνηγετικος_, vânătoresc).
+[^limbaj]: Un exemplu: Referindu-se la animale, Odobescu remarcă despre boi _„Și ce gânduri vor fi rumegând ei, când se simt într-astfel călcați sub picioare? Mare e limba boului, păcat că nu poate grăi!”_ (Cap. II).
+
+### Critica latinismului
+
+O parte din ideile Școlii Ardelene au fost continuate de un curent în lingvistica și filologia română, numit curentul latinist. Acest curent a sprijinit la stabilirea alfabetului latin pentru scrierea limbii române (în locul scrierii cu caractere chirilice), relatinizarea limbii română prin împrumuturi comune cu celelalte limbi romanice (în special franceza și italiana), dar și la formarea altor argumente pentru susținerea latinității limbii române. 
+
+Unii reprezentanți ai curentului au fost mai drastici în practicile propuse pentru relatinizarea limbii române, iar alții mai moderați. Doi dintre reprezentanții extremi ai curentului latinist sunt August Treboniu Laurian și Ion C. Massim, care au realizat _Dicționarul limbei romane_. Dicționarul lui Laurian și Massim, scris cu intenția de a „purifica limba română de elementele nelatine”, este rezultatul exagerării ideii de latinitate, ajungând la un limbaj artificial, greu de recunoscut și aproape comic (I. Funeriu).
+
+Critic aspru al latinismului exagerat, Alexandru Odobescu a imaginat un meniu culinar inspirat din stilul dicționarului menționat anterior, de nerecunoscut pentru un vorbitor al limbii române:
+
+  Meniu                                                                 Traducere
+  -----                                                                 ---------
+  Vinu arsu de anicetu                                                  Rachiu cu anason
+  Fame -- stimuli varii                                                 Mezeluri -- mai multe feluri
+  Siluru munitu cu astuci fluviali, în condimentu de sinape             Somn fiert cu raci în sos de muștar
+  Lumbu bubulinu instinctu in cremore cu bacce e tuberculi leguminose   Mușchi de vacă cu smântână, mazăre și cartofi
+  Potione congellata de modu romanu                                     Punch
+  Copsa de ariete in verubi torresa                                     Coapsă de berbec
+  Vesice fermentate pre ratione Germanica                               Gogoși dospite nemțești
+  Biscopte lactantia glaciate Canistru mulți pomariu                    Pișcoturi cu înghețată de lapte
+  Confapte saccharine                                                   Prăjituri
+  Licuore bellaria de Bromelia                                          Votcă de ananas
+  etc.                                                                  etc.
 
 ## Vasile Alecsandri
 Vasile Alecsandri (cc. 1818 -- 1890) este una dintre cele mai prolifice figuri literare din istoria literaturii române. Considerat de Mihai Eminescu drept „rege al poeziei”, a abordat o pletoră de genuri și specii, atât lirice cât și în proză. A adus în cadrul literaturii române o nouă specie lirică, numită _pastel_[^pastel]
@@ -178,18 +215,19 @@ Nicolae Filimon (1819 -- 1865) este considerat autorul primului roman realist iz
 
 Primul roman realist al lui Nicolae Filimon, întitulat _Ciocoii vechi și noi, sau, Ce naște din pisică șoareci mănâncă_, 
 
-
-# Dramaturgia romantică
-
-## Vasile Alecsandri
-Seria de comedii a lui Vasile Alecsandri
-
 ## B.P. Hașdeu
 Bogdan Petriceicu Hașdeu (1838 -- 1907) a fost un filolog, lingvist, scriitor și cercetător român, considerat una dintre _personalitățile enciclopedice_ din literatura română.
 
 
-# Bibliografie
+# Bibliografie și surse
 * Al. Andrei, _Comentarii literare pentru clasele IX-XII, bacalaureat și admiterea în învățământul superior_, Editura Nova, București, 1994
-* Al. Piru, _Școala ardeleană. Contribuții la dezvoltarea culturii și a literaturii române_
+* Al. Piru, _Școala ardeleană. Contribuții la dezvoltarea culturii și a literaturii române_\
 * Ștefan Ștefănescu, _Enciclopedia istoriografiei românești_, Editura Științifică și Enciclopedică, București, 1978
+
+---
+
+* Ioan Budai-Deleanu, [_Țiganiada sau Tabăra țiganilor_](https://ro.wikisource.org/wiki/%C8%9Aiganiada), pe Wikisource
+* Mihail Kogălniceanu, [_Introducție la „Dacia literară”_](https://ro.wikisource.org/wiki/Introduc%C8%9Bie_la_%22Dacia_literar%C4%83%22), pe Wikisource
+* Alexandru Odobescu, [_Pseudo-Kynegetikos (ΨΕΥΔΟ-ΚΥΝΗΓΕΤΙΚΟΣ)_](https://ro.wikisource.org/wiki/Pseudo-Kynegetikos), pe Wikisource
+* Ionel Funeriu, [_Ogni abuso sará punito_](https://wiki.dexonline.ro/wiki/Articol/Ionel_Funeriu/ogni_abuso_sar%C3%A1_punito), pe dexonline
 
