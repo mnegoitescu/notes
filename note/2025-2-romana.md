@@ -88,16 +88,17 @@ Pe parcursul textului, opera este adnotată de diverși comentatori: Erudițianu
 
 [^onochefalos]: όνος (ónos, măgar) + κέφαλος (kéfalos, cap) 
 
-## Latinismul
-
-
 # Poezia neotrubadurească
 
 ## Poeții Văcărești
-Poeții Văcărești
 
-* Costache Conachi
-* Barbu Paris Mumuleanu
+## Costache Conachi
+Costache Conachi (1778 -- 1849) a fost un scriitor român de origine fanariotă. Educat de un refugiat francez, a avut access la o educație superioară, cunoscând ingineria, limbile clasice, neogreaca, franceza și turca.
+
+<!-- TODO: Informații despre opera sa și activitatea publică -->
+
+## Barbu Paris Mumuleanu
+Barbu Paris Mumuleanu (1794 -- 1836) a fost un poet român autodidact. Primele sale poezii au fost scrise într-un stil hedonist, specific operei poetului grec Athanasios Christopoulos. Pe parcurs, opera sa a fost influențată ideile iluminismului și ale Școlii Ardelene, ceea ce se remarcă mai ales în volumul său de portrete satirice, în stilul _Caracterelor_ lui La Bruyère.
 
 ## Anton Pann
 Anton Pann (1796 -- 1854) a fost un scriitor, folclorist, profesor de muzică religioasă și poet român de origine bulgară sau aromână. 
