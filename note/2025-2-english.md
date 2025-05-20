@@ -192,7 +192,7 @@ Romanticism started off as a literary movement in reaction against Classicism an
 A daffodil flower. _(Narcisus radiiflorus)_
 :::
 
-William Wordsworth (1770 -- 1850) was an poet from a small English town in Cumbria. His work is considered to have started the Romantic poetry movement in Brittain after having collaborated with Samuel Taylor Coleridge in creating _Lyrical Ballads_ in the year 1798.
+William Wordsworth (1770 -- 1850) was an poet from a small English town in Cumbria (Cumberland). His work is considered to have started the Romantic poetry movement in Brittain after having collaborated with [Samuel Taylor Coleridge](#samuel-taylor-coleridge) in creating _Lyrical Ballads_ in the year 1798.
 
 One of Wordsworth most popular poems is _"I Wandered Lonely as a Cloud"_, published in 1807:
 
@@ -221,7 +221,7 @@ One of Wordsworth most popular poems is _"I Wandered Lonely as a Cloud"_, publis
 | _And then my heart with pleasure fills,_
 | _And dances with the daffodils."_
 
-The poem is written in iambic tetrameter[^tetrameter] and features a quatrain-couplet rhyming scheme -- that is, the ABABCC pattern, and describes a walk in the countryside, where the poet becomes fascinated by a small spot of flowers (golden daffodils), comparing their beauty to that of cosmic proportions (_"Continous as the stars that shine / And twinkle on the milky way"_), and the mesmerising waves in the bay, but still finds them more valuable and delightful (_"[...] but they / Out-did the sparkling waves in glee"_). It ends with a reflection on solitude and how, after having seem the beautiful flowers, the poet is elated by their memory (_"In vacant or in pensive mood, / They flash upon that inward eye / Which is the bliss of solitude; / And then my heart with pleasure fills, / And dances with the daffodils."_).
+The poem is written in iambic tetrameter[^tetrameter] and features a quatrain-couplet rhyming scheme -- that is, the ABABCC pattern, and describes a walk in the countryside, where the poet becomes fascinated by a small spot of flowers (golden daffodils), comparing their beauty to that of cosmic proportions (_"Continous as the stars that shine / And twinkle on the milky way"_), and the mesmerising waves in the bay, but still finds them more valuable and delightful (_"[...] but they / Out-did the sparkling waves in glee"_). It ends with a reflection on solitude and how, after having seen the beautiful flowers, the poet is elated by their memory (_"In vacant or in pensive mood, / They flash upon that inward eye / Which is the bliss of solitude; / And then my heart with pleasure fills, / And dances with the daffodils."_).
 
 In typical Romantic fashions, many of the movement's most major themes are present:
 
@@ -233,6 +233,19 @@ In typical Romantic fashions, many of the movement's most major themes are prese
 [^tetrameter]: Iambic tetrameter is a poetic meter featuring ten iambs (an unstressed syllable followed by a stressed one) per line. This is type of meter is commonly used in English poetry, alongside iambic <u>penta</u>meter (five iambs).
 
 ### Samuel Taylor Coleridge
+Samuel Taylor Coleridge (1772 -- 1834) was an English poet, considered, alongside William Wordsworth, one of the initiators of the Romantic poetry movement in Britain. Some of his most famous works include the poems written in collaboration with William Wordsworth in their volume _Lyrical Ballads_ (1798), as well as _Kubla Khan_ (written 1797 -- published 1816), and _Christabel_ (1816).
+
+### John Keats
+John Keats (1795 -- 1821) was an English poet born in London. He is best known for his 1819 series of odes, considered some of the best in English literature:
+
+* _Ode on Indolence_
+* _Ode on Melancholy_
+* _Ode on a Grecian Urn_
+* _Ode to Autumn_
+* _Ode to Psyche_
+* _Ode to a Nightingale_
+
+His works commonly feature references and allusions to Greek and Roman mythology, as well as ancient philosophy and way of life (s. [_Ode to a Grecian Urn_](#bibliography-and-sources), [_Ode to a Nightingale_](#bibliography-and-sources)).
 
 ### William Blake
 
@@ -323,7 +336,9 @@ Through juxtaposition, the two poems share a common element which reveals that, 
 
 ### Lord Byron
 
-Lord Byron (1788 -- 1824), also known as George Gordon Byron, was an English poet, known for his extravagant lifestyle and passionate Romantic themes abundant in his poetry.
+Lord Byron (1788 -- 1824), also known as George Gordon Byron, was an English poet, known for his extravagant lifestyle and passionate Romantic themes abundant in his poetry, characteristic of the _Sturm und Drang_ motif[^sturm]. His most known works are _Beppo_ (1818), and _Don Juan_ (1812). Both of the aforementioned poems use a rhyming scheme called _ottava rima_, characteristic of his work.
+
+[^sturm]: _Sturm un Drang_ is a literary motif and movement started in 18th century Germany, as a starting point for the pre-Romantic ideals. The movement focused on individual expression and strong emotions, as a reaction against the excessive rationalism of the Englightenment.
 
 ## Gothic Literature
 
@@ -401,6 +416,7 @@ Another theme tackled by the novel is that of defying nature's laws and Natural 
 * Elio Chinol, _English Literature: A Historical Survey with an Anthology_ -- Volume 1, Liguori Editore, 1982
 * Ifor Evans, _A Short History of English Literature -- Third Edition_, Pelican Books, 1970 
 * Ioan Aurel Preda, _English Literature and Civilization: The Renaissance and the Restoration Period (1500-1700)_, Editura Didactică și Pedagogică, Bucharest, 1983 
+* Jack Rathbun & Liviu Cotrău, _English Practical Course: Two Approaches to Literature_, Editura Didactică și Pedagogică, Bucharest, 1983
 * John William Cousin, [_A Short Biographical Dictionary of English Literature_](https://en.wikisource.org/wiki/A_Short_Biographical_Dictionary_of_English_Literature), 1910
 
 ---
@@ -408,3 +424,5 @@ Another theme tackled by the novel is that of defying nature's laws and Natural 
 * [_A Modest Proposal_](https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_9/A_Modest_Proposal) on Wikisource
 * [_Gulliver's Travels_](https://commons.wikimedia.org/wiki/File:Gulliver%27s_Travels_\(1899\).djvu) on Wikimedia Commons
 * [_The Life and Opinions of Tristram Shandy, Gentleman_](https://en.wikisource.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman/) on Wikisource
+* [_Ode on a Grecian Urn_](https://en.wikisource.org/wiki/The_Poetical_Works_of_John_Keats/Ode_on_a_Grecian_Urn) on Wikisource
+* [_Ode to a Nightingale_](https://en.wikisource.org/wiki/The_Poetical_Works_of_John_Keats/Ode_to_a_Nightingale) on Wikisource
