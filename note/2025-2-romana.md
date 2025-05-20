@@ -214,7 +214,7 @@ Nicolae Filimon (1819 -- 1865) este considerat autorul primului roman realist iz
 
 ### _Ciocoii vechi și noi_
 
-Primul roman realist al lui Nicolae Filimon, întitulat _Ciocoii vechi și noi, sau, Ce naște din pisică șoareci mănâncă_, 
+Primul roman realist al lui Nicolae Filimon, întitulat _Ciocoii vechi și noi, sau, Ce naște din pisică șoareci mănâncă_, reprezintă geneza acestui gen literar în cadrul literaturii române.
 
 ## B.P. Hașdeu
 Bogdan Petriceicu Hașdeu (1838 -- 1907) a fost un filolog, lingvist, scriitor și cercetător român, considerat una dintre _personalitățile enciclopedice_ din literatura română.

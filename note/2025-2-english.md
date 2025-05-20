@@ -3,8 +3,6 @@ title: "Early Modern English Literature"
 lang: en
 ---
 
-**WORK IN PROGRESS**
-
 # Introduction
 
 Early Modern English literature represents the building block of most of the practices that we can find today in modern English literature, from the literary devices to themes, philosophical views, and even character tropes. This document serves as a quick glance over the twists and turns taken throughout history that have lead to the creation of the modern English novel, poetry, and literature as a whole. 
@@ -14,6 +12,11 @@ Early Modern English literature represents the building block of most of the pra
 John Milton (1608 -- 1674) is one of the most substantial figures in the creation of modern English poetry.
 
 ### _Paradise Lost_
+
+::: image
+![paradise-lost](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/GustaveDoreParadiseLostSatanProfile.jpg/529px-GustaveDoreParadiseLostSatanProfile.jpg)
+Satan, as drawn by [Gustave Doré](https://en.wikipedia.org/wiki/en:Gustave_Dor%C3%A9), in John Milton's _Paradise Lost_.
+:::
 
 _Paradise Lost_ is an epic poem in blank verse[^blank] written by John Milton and publised in the year 1667. The work was originally divided into ten books, with later revisions being arranged in twelve books, as in Virgil's Aeneid, to more closely represent the model of classical epic poems. 
 
@@ -74,6 +77,11 @@ Hell, despite being a place, is described as a _she_, and is frightened at the s
 
 ## Daniel Defoe
 
+::: image
+![defoe](https://upload.wikimedia.org/wikipedia/commons/0/0d/Daniel_Defoe.jpg)
+Portrait of Daniel Defoe.
+:::
+
 Daniel Defoe (1660 -- 1731) was an English writer, merchant, and spy for both the Whigs and the Tories[^whigs]. His work was diverse and dynamic, from being an inventor and a bankrupt, to working as a politician, a businessman, and in journaling. His literary carreer was quite strong, having written over 250 works on a multitude of topics.
 
 Despite being an extremely prolific writter, Defoe started his novel writing later in his life, having written his first novel, _Robinson Crusoe_, in his late fifties. Nevertheless, Defoe is best known for his novels, and is considered by many critics as _the inventor of the modern English novel_, since he was the first major English novelist to break away from the traditional formulas of literature (romances, epics, legends, allegories, and others), instead opting to write using real events as his inspiration, combining fiction with reality.
@@ -91,6 +99,11 @@ One of the novel's particularities and a characteristic feature of Daniel Defoe'
 [^longtitle]: Or, under its full title: _"The Life and Strange Surprizing Adventures of Robinson Crusoe, of York, Mariner: Who lived Eight and Twenty Years, all alone in an un-inhabited Island on the Coast of America, near the Mouth of the Great River of Oroonoque; Having been cast on Shore by Shipwreck, wherein all the Men perished but himself. With An Account how he was at last as strangely deliver'd by Pyrates. Written by Himself."_, which pretty much sums up the entire book.
 
 ## Jonathan Swift
+
+::: image
+![jonathan](https://upload.wikimedia.org/wikipedia/commons/a/a5/Jonathan_Swift_-_Project_Gutenberg_eText_18250.jpg)
+Portrait of Jonathan Swift.
+:::
 
 Jonathan Swift (1667 -- 1745) was an Anglo-Irish writer, satirist, and Anglican[^anglicanism] cleric, who lived during the Georgian era (1714 -- c. 1830). His most known works are all satires, leading to many critics granting him the title of _the greatest satirist of the Georgian era_.
 
@@ -115,6 +128,11 @@ Structured as an essay, _A Modest Proposal_ claims to provide a simple and effic
 
 ### _Gulliver's Travels_
 
+::: image
+![laputa](https://upload.wikimedia.org/wikipedia/commons/4/44/Laputa_-_Grandville.jpg)
+Laputa in _Gulliver's Travels_.
+:::
+
 _Gulliver's Travels_ is Swift's most popular and appreciated work, published on published the 28th of October, 1726, under the original title: _"Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships"_. The work serves both as an astounding piece of literature read and enjoyed by all ages, as well as a witful critique of human nature and the Robinsonade literary genre, popularised by Daniel Defoe's _Robinson Crusoe_.
 
 The novel's story is split into four parts, describing Lemuel Gulliver's travels across a wide range of fictional as well as real places: Lilliput (an island inhabited by tiny people), Brobdingnag (an island where everything, including the people, is huge), Laputa, Balnibarbi, Luggnagg, Glubbdubdrib, Japan, and the Land of the Houyhnhnms (a place inhabited by speaking, sentient horses that use a human-like race, called the Yahoos, as slaves). Swift seeks to make fun of the usually exaggerated and nonsensical travels that had become popular in "traveller's tales" literature, as well as parody key elements of his time: politics, religion, science, and philosophy. In Swift's own words, he wrote _Gulliver's Travels_ _"to vex the world rather than divert it"_, and indeed this book's paradox is its popularity as a children's novel and it being a harsh and savage critique on humanity as a whole.
@@ -122,6 +140,11 @@ The novel's story is split into four parts, describing Lemuel Gulliver's travels
 The novel's cultural influence is quite considerable. The term _Lilliputian_ has entered many languages as an adjective for describing anything miniature or delicate; likewise, the term _Brobdingnagian_ is included in the Oxford English Dictionary to describe anything gigantesque.
 
 ## Laurence Sterne
+
+::: image
+![sterne](https://upload.wikimedia.org/wikipedia/commons/5/5c/Laurence_Sterne_%28cropped%29.jpg)
+Portrait of Laurence Sterne.
+:::
 
 Laurence Sterne (1713 -- 1768) was also an Anglo-Irish novelist and Anglican cleric, and the son of an officer in the army. His most popular work is the comic novel _Tristram Shandy_. Unlike the previous authors mentioned above, Sterne's writing style is unique in its long essay-like passages, that in some regards can be seen to anticipate the modern writing technique called _'stream of consciousness'_ as can be found in James Joyce's[^joyce] works.
 
@@ -155,13 +178,68 @@ Etymologically, the name _Tristram_ comes from the Latin term "tristis", which m
 Romanticism started off as a literary movement in reaction against Classicism and Neoclassicism, in what is called the Pre-Romantic Age, during roughly the last 30 years of the 1700s. Most of the themes present in Pre-Romantic literature can be found in Romantic literature or have slightly evolved in their fully matured Romantic themes and ideas. Some of the most important Romantic themes are:
 
 * A preference for all that is emotionally and spiritually charged, encapsulated in a few representative locations: ruins, graveyards; as well as states of the mind and soul: solitude, melancholy, nostalgia, reverie.
+* The usage of common/everyday language, as opposed to the complex and sophisticated language that was common during the Englightenment. In turn, this also sparked a revival of language dialects.
 * A refusal or distaste for the rigid and sterile style of writing characteristic of texts of the Classical and Neoclassical period, replaced by personal taste, imagination, and the irrational.
 * An increasing passion for the Middle Ages and Mediaeval Times, being seen as a mysterious and vulgar era.
 * An interest for the exotic, strange, and supernatural.
 * An interest in Gothic architecture and society due to its dark and brutal spirit, characteristic of the barbarous period (s. [Gothic Literature](#gothic-literature)).
 * The nobilization of the Natural world and of primitive ways of living (s. [The Noble Savage](https://en.wikisource.org/wiki/The_Noble_Savage)).
 
+### William Wordsworth
+
+::: image
+![daffodil](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Narcissus_poeticus_subsp._radiiflorus.1658.jpg/500px-Narcissus_poeticus_subsp._radiiflorus.1658.jpg)
+A daffodil flower. _(Narcisus radiiflorus)_
+:::
+
+William Wordsworth (1770 -- 1850) was an poet from a small English town in Cumbria. His work is considered to have started the Romantic poetry movement in Brittain after having collaborated with Samuel Taylor Coleridge in creating _Lyrical Ballads_ in the year 1798.
+
+One of Wordsworth most popular poems is _"I Wandered Lonely as a Cloud"_, published in 1807:
+
+| _"I wandered lonely as a cloud_
+| _That floats on high o'er vales and hills,_
+| _When all at once I saw a crowd,_
+| _A host, of golden daffodils;_
+| _Beside the lake, beneath the trees,_
+| _Fluttering and dancing in the breeze._
+| _Continuous as the stars that shine_
+| _And twinkle on the milky way,_
+| _They stretched in never-ending line_
+| _Along the margin of a bay:_
+| _Ten thousand saw I at a glance,_
+| _Tossing their heads in sprightly dance._
+| _The waves beside them danced, but they_
+| _Out-did the sparkling waves in glee:_
+| _A poet could not but be gay,_
+| _In such a jocund company:_
+| _I gazed - and gazed - but little thought_
+| _What wealth the show to me had brought:_
+| _For oft, when on my couch I lie_
+| _In vacant or in pensive mood,_
+| _They flash upon that inward eye_
+| _Which is the bliss of solitude;_
+| _And then my heart with pleasure fills,_
+| _And dances with the daffodils."_
+
+The poem is written in iambic tetrameter[^tetrameter] and features a quatrain-couplet rhyming scheme -- that is, the ABABCC pattern, and describes a walk in the countryside, where the poet becomes fascinated by a small spot of flowers (golden daffodils), comparing their beauty to that of cosmic proportions (_"Continous as the stars that shine / And twinkle on the milky way"_), and the mesmerising waves in the bay, but still finds them more valuable and delightful (_"[...] but they / Out-did the sparkling waves in glee"_). It ends with a reflection on solitude and how, after having seem the beautiful flowers, the poet is elated by their memory (_"In vacant or in pensive mood, / They flash upon that inward eye / Which is the bliss of solitude; / And then my heart with pleasure fills, / And dances with the daffodils."_).
+
+In typical Romantic fashions, many of the movement's most major themes are present:
+
+* The poem's theme is nature, and features natural elements throughout (the hills and valleys, the lake, the daffodils themselves). These elements also symbolize Romantic themes (the cloud -- a symbol of the connection between humanity and nature, and the daffodils --- a symbol of beauty).
+* The language is simple and accessible; it can be understood by anyone, unlike the elevated language of the Enlightenment.
+* The poem features strong emotions such as happiness, joy, and bliss.
+* The connection between the poet and the surrounding nature is described with a spirital quality, characteristic of Romantic ideals.
+
+[^tetrameter]: Iambic tetrameter is a poetic meter featuring ten iambs (an unstressed syllable followed by a stressed one) per line. This is type of meter is commonly used in English poetry, alongside iambic <u>penta</u>meter (five iambs).
+
+### Samuel Taylor Coleridge
+
 ### William Blake
+
+::: image
+![the-lamb](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/William_Blake_-_Songs_of_Innocence_and_Experience_-_The_Lamb.jpg/500px-William_Blake_-_Songs_of_Innocence_and_Experience_-_The_Lamb.jpg)
+_The Lamb_ from William Blake's _Songs of Innocence_.
+:::
 
 William Blake (1757 -- 1827) was an English poet, illustrator, and painter, posessing an impressive imagination due to the visions he has experienced since his childhood. William's work was diverse and rich in themes and motives, but focused almost entirely on Religion, through which he sought to develop his idea of imagination as "the body of God".
 
@@ -280,6 +358,11 @@ The novel's narrative and action is unique, not featuring a single protagonist. 
 
 ### Mary Shelley
 
+::: image
+![frankenstein](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frankenstein%27s_monster_%28Boris_Karloff%29.jpg/500px-Frankenstein%27s_monster_%28Boris_Karloff%29.jpg)
+The (now famous) depiction of Frankenstein's monster by [Boris Karloff](https://commons.wikimedia.org/wiki/Boris_Karloff).
+:::
+
 Mary Wollstonecraft Shelley (1797 -- 1851) was an English novelist known for having written the Gothic novel _Frankenstein_, inspired by her stay at George Byron's villa on the lake of Geneva. Shelley's literary carreer was fruitful, having written many works of considerable success and edited the poems of her husband, Percy Shelley, a Romantic poet.
 
 #### _Frankenstein_
@@ -322,5 +405,6 @@ Another theme tackled by the novel is that of defying nature's laws and Natural 
 
 ---
 
-* [_A Modest Proposal_ on Wikisource](https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_9/A_Modest_Proposal)
-* [_The Life and Opinions of Tristram Shandy, Gentleman_ on Wikisource](https://en.wikisource.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman/)
+* [_A Modest Proposal_](https://en.wikisource.org/wiki/The_Works_of_the_Rev._Jonathan_Swift/Volume_9/A_Modest_Proposal) on Wikisource
+* [_Gulliver's Travels_](https://commons.wikimedia.org/wiki/File:Gulliver%27s_Travels_\(1899\).djvu) on Wikimedia Commons
+* [_The Life and Opinions of Tristram Shandy, Gentleman_](https://en.wikisource.org/wiki/The_Life_and_Opinions_of_Tristram_Shandy,_Gentleman/) on Wikisource
