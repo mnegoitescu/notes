@@ -115,8 +115,13 @@ Iancu Văcărescu (1792 -- 1863) a fost un alt poet român din familia Văcăre�
 Gravură cu portretul lui Anton Pann.
 :::
 
-Anton Pann (cc. 1796 -- 1854) a fost un scriitor, folclorist, profesor de muzică religioasă și poet român de origine bulgară sau aromână. A fost supranumit „cel isteț ca un proverb” de Mihai Eminescu în poemul [Epigonii](https://www.versuri.ro/versuri/mihai-eminescu-epigonii/).
+Anton Pann (cc. 1796 -- 1854) a fost un scriitor, folclorist, profesor de muzică religioasă și poet român de origine bulgară sau aromână, compozitorul imnului național al României, _„Deșteaptă-te române!”_, numită de G. Călinescu „Marseilleza română”. A fost supranumit „cel isteț ca un proverb” de Mihai Eminescu în poemul [Epigonii](https://www.versuri.ro/versuri/mihai-eminescu-epigonii/). Este cunoscut pentru contribuțiile sale în compunerea și culegerea muzicii românești, realizând un vast repertoriu de cântece cu temă orientală, imnuri, cântări bisericești și piese de curte. Talentul său muzical trece și peste slovă, fiind un interpret talentat la mai multe instrumente clasice, cum ar fi cobza, lauta, chitara și pianoforte. 
 
+Printre operele sale se numără și volumel _Poezii deosebite sau cântece de lume_, apărut în două ediții (1831, 1837), care conține o selecție de cântece, atât originale cât și culese, după cum este declarat în introducerea volumui:
+
+| _„Poezii deosebite sau cântece de lume, din care, unele sânt culese de alții, iar altele originale de Anton Pann._
+| _Crez că la mulți va aduce mirare pornirea mea spre a da prin tipar la lumină niște poezii ca acestea. Știut fiind însă la cei mai mulți din obște că aceste poezii de multă vreme avându-le manuscrise, unele adunate de la alții și altele chiar de mine compuse, mai tot dauna aveam silă de către prieteni, a le da izvoade, și cu aciasta mi se pricinuia zăticnire dela alte lucruri mai folositoare._
+| _Pentru ușurarea mea dar, și pentru a prietenilor mulțumire m-am îndemnat a le tipări. Primească, mă rog deocamdată aceste și văzând că sânt primite cu dragoste mă voiu îndemna ale da și altele.”_
 
 
 # Pașoptismul
@@ -272,8 +277,18 @@ Nicolae Filimon (1819 -- 1865) este considerat autorul primului roman realist iz
 
 Primul roman realist al lui Nicolae Filimon, întitulat _Ciocoii vechi și noi, sau, Ce naște din pisică șoareci mănâncă_, reprezintă geneza acestui gen literar în cadrul literaturii române.
 
-## B.P. Hașdeu
-Bogdan Petriceicu Hașdeu (1838 -- 1907) a fost un filolog, lingvist, scriitor și cercetător român, considerat una dintre _personalitățile enciclopedice_ din literatura română.
+## B. P. Hașdeu
+
+::: image
+![hasdeu](https://upload.wikimedia.org/wikipedia/commons/6/6b/S5300027bust_hasdeu.JPG)
+Bustul lui B. P. Hașdeu din curtea palatului Iulia Hașdeu, în Câmpina, județul Prahova.
+:::
+
+Bogdan Petriceicu Hașdeu (1838 -- 1907) a fost un filolog, lingvist, scriitor și cercetător român, considerat una dintre _personalitățile enciclopedice_ din literatura română. A realizat studii ample și detaliate în etnografie, folclor și lingvistică, despre o sumedenie de subiecte. Este autorul mai multor eseuri lingvistice despre limba română, din care cel mai semnificative sunt _Etymologicum Magnum Romaniae_, un dicționar al limbii române și _Teoria circulației cuvintelor_, de importanță deosebită în dezvoltarea lingvisticii în spațiul nostru. Opera lui Hașdeu impresionează atât prin momumentalitate cât și prin gama imensă de varietate a scrierilor sale. A scris monografia _Ion-Vodă cel Cumplit_, drama istorică _Răzvan și Vidra_, romanul _Ursita_, comedia _Trei crai de la răsărit_ și multe alte texte în proză dar și lirice.
+
+### _Răzvan și Vidra_
+
+_Răzvan și Vidra_ este o poemă dramatică istorică scrisă de B. P. Hașdeu. Textul este împărțit în cinci cânturi: _„Un rob pentru un galben”_, _„Răzbunarea”_, _„Nepoata lui Moțoc”_, _„Încă un pas”_ și _„Mărirea”_. Fiind o dramă istorică, acțiunea este inspirată din domnia timp de cinci luni a domnitorului Moldovei, Ștefan Răzvan, în anul 1595.
 
 
 # Bibliografie și surse
