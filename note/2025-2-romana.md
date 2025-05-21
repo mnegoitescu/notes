@@ -90,15 +90,23 @@ Pe parcursul textului, opera este adnotată de diverși comentatori: Erudițianu
 
 # Poezia neotrubadurească
 
-## Poeții Văcărești
-
 ## Costache Conachi
-Costache Conachi (1778 -- 1849) a fost un scriitor român de origine fanariotă. Educat de un refugiat francez, a avut access la o educație superioară, cunoscând ingineria, limbile clasice, neogreaca, franceza și turca.
+Costache Conachi (1778 -- 1849) a fost un poet român de origine fanariotă (tatăl său, Manolache Costachi, a deținut moșia Țigănești din Tutova). Educat de un refugiat francez (Fleury), a avut access la o educație superioară, cunoscând ingineria, greaca antică, neogreaca, franceza și turca.
 
-<!-- TODO: Informații despre opera sa și activitatea publică -->
+Inspirat de idealurile curentului iluminist, a contribuit considerabil la dezvoltarea condițiilor de trai și îmbunătățirea moravurilor -- deviza sa fiind _„moralul, moralul și iar moralul”_ (Al. Piru, 1964). A înființat o apotecă în Tecuci, a contribuit la reînnoirea bisericilor din Iași și a participat la un număr mare de activități filantropice.
+
+În ceea ce privește activitatea sa literară, Conachi a început să scrie și să publice poezii de la începutul secolului XIX, începând cu lecturi și traduceri din mica poezie franceză, din poeții galanți și anacreontici (inclusiv poetul grec Atanasie Christopoulos). Traduce, de-asemenea, din limba franceză _Privire politicească a Evropii toate din anul 1825_, în care critică nobilimea: (_„Sistima aristocraticească sunt vrăjmașii cinstii noroadelor.”_).
+
+Debutează în scrieri originale cu o serie de comedii și satire în versuri, prima fiind _Giudecata femeilor_.
 
 ## Barbu Paris Mumuleanu
-Barbu Paris Mumuleanu (1794 -- 1836) a fost un poet român autodidact. Primele sale poezii au fost scrise într-un stil hedonist, specific operei poetului grec Athanasios Christopoulos. Pe parcurs, opera sa a fost influențată ideile iluminismului și ale Școlii Ardelene, ceea ce se remarcă mai ales în volumul său de portrete satirice, în stilul _Caracterelor_ lui La Bruyère.
+Barbu Paris Mumuleanu (1794 -- 1836) a fost un poet român autodidact. Primele sale poezii au fost scrise într-un stil hedonist, specific operei poetului grec Athanasios (Atanasie) Christopoulos. Pe parcurs, opera sa a fost influențată ideile iluminismului și ale Școlii Ardelene, ceea ce se remarcă mai ales în volumul său de portrete satirice, în stilul _Caracterelor_ lui La Bruyère.
+
+## Nicolae Văcărescu
+Nicolae (sau Nicolache) Văcărescu (c. 1785 -- 1825) a fost un poet din familia Văcăreștilor, fiul cel mic lui Ienăchiță Văcărescu, fratele poetului Alecu Văcărescu. A scris mai multe poezii de natură erotică, scrisori și un cântec de haiducie întitulat „Durda”, care este una dintre lucrările sale cele mai semnificative, datorită originalității textului.  
+
+## Iancu Văcărescu
+Iancu Văcărescu (1792 -- 1863) a fost un alt poet român din familia Văcăreștilor, fiul lui Alecu Văcărescu.
 
 ## Anton Pann
 Anton Pann (1796 -- 1854) a fost un scriitor, folclorist, profesor de muzică religioasă și poet român de origine bulgară sau aromână. 
@@ -222,8 +230,9 @@ Bogdan Petriceicu Hașdeu (1838 -- 1907) a fost un filolog, lingvist, scriitor �
 
 # Bibliografie și surse
 * Al. Andrei, _Comentarii literare pentru clasele IX-XII, bacalaureat și admiterea în învățământul superior_, Editura Nova, București, 1994
-* Al. Piru, _Școala ardeleană. Contribuții la dezvoltarea culturii și a literaturii române_\
-* Ștefan Ștefănescu, _Enciclopedia istoriografiei românești_, Editura Științifică și Enciclopedică, București, 1978
+* Al. Piru, _Literatura română premodernă_, Editura Pentru literatură, București, 1964
+* Al. Piru, _„Școala ardeleană. Contribuții la dezvoltarea culturii și a literaturii române”_ în _Sinteze de literatura română_, Editura didactică și pedagogică, București, 1974
+* Ștefan Ștefănescu, _Enciclopedia istoriografiei românești_, Editura științifică și enciclopedică, București, 1978
 
 ---
 
