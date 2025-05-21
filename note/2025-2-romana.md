@@ -103,13 +103,21 @@ Debutează în scrieri originale cu o serie de comedii și satire în versuri, p
 Barbu Paris Mumuleanu (1794 -- 1836) a fost un poet român autodidact. Primele sale poezii au fost scrise într-un stil hedonist, specific operei poetului grec Athanasios (Atanasie) Christopoulos. Pe parcurs, opera sa a fost influențată ideile iluminismului și ale Școlii Ardelene, ceea ce se remarcă mai ales în volumul său de portrete satirice, în stilul _Caracterelor_ lui La Bruyère.
 
 ## Nicolae Văcărescu
-Nicolae (sau Nicolache) Văcărescu (c. 1785 -- 1825) a fost un poet din familia Văcăreștilor, fiul cel mic lui Ienăchiță Văcărescu, fratele poetului Alecu Văcărescu. A scris mai multe poezii de natură erotică, scrisori și un cântec de haiducie întitulat „Durda”, care este una dintre lucrările sale cele mai semnificative, datorită originalității textului.  
+Nicolae (sau Nicolache) Văcărescu (cc. 1785 -- 1825) a fost un poet din familia Văcăreștilor, fiul cel mic lui Ienăchiță Văcărescu, fratele poetului Alecu Văcărescu. A scris mai multe poezii de natură erotică, scrisori și un cântec de haiducie întitulat „Durda”, care este una dintre lucrările sale cele mai semnificative, datorită originalității textului.  
 
 ## Iancu Văcărescu
 Iancu Văcărescu (1792 -- 1863) a fost un alt poet român din familia Văcăreștilor, fiul lui Alecu Văcărescu.
 
 ## Anton Pann
-Anton Pann (1796 -- 1854) a fost un scriitor, folclorist, profesor de muzică religioasă și poet român de origine bulgară sau aromână. 
+
+::: image
+![anton-pann](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Anton_Pann_rowiki.jpg/400px-Anton_Pann_rowiki.jpg)
+Gravură cu portretul lui Anton Pann.
+:::
+
+Anton Pann (cc. 1796 -- 1854) a fost un scriitor, folclorist, profesor de muzică religioasă și poet român de origine bulgară sau aromână. A fost supranumit „cel isteț ca un proverb” de Mihai Eminescu în poemul [Epigonii](https://www.versuri.ro/versuri/mihai-eminescu-epigonii/).
+
+
 
 # Pașoptismul
 Pașoptismul a fost o mișcare culturală și națională delimată tradițional între anii 1830 -- 1860. Numele acestei mișcări provine de la mișcarea revoluționară română din anul 1848, fiind prima tentativă la eliberarea și recunoașterea națională a românilor.
@@ -185,7 +193,7 @@ _Pseudokynegeticos_, sau _Fals tratat de vânătoare_[^pseudo] este un eseu scri
 
 Lucrarea este structurată în 12 capitole și prefațată cu o „epistolă” dedicată domnului C. C. Cornescu, un bun prieten al autorului. Titlul lucrării amintește modul în care opera lui Odobescu a depășit țelul ei original (acela de simplă introducere a vânătoarei reprezentată în arte), ajungând un adevărat eseu, unic în cadrul literaturii române.
 
-Subiectele abordate sunt diverse și vaste, chiar dacă se învârt în jurul vânătoarei. Opera începe cu scena descrierii câmpiei Bărăganului, văzută precum un mirajul, ca celebra _fata morgana_: _„[...] aerul, resfirat în unde diafane sub arșița soarelui de vară, oglindește ierburile și bălțile din depărtare și le preface, dinaintea vederii fermecate, în cetăți cu mii de minarete, în palate cu mii de încântări”_. Sunt descrise în detaliu amplu diferite picturi, sculpturi și alte opere de artă (gravura lui Dürer a sfântului Hubert, statuile zeiței Diana), subiecte filosofice legate de vânătoare -- inclusiv, denumirea unor păsări rare (grive, sturzi, cocoșari) în limbile romanice -- și chiar basme (basmul fiului de împărat cel cu noroc la vânătoare). Eseul cuprinde și o parte autobiografică, dar și un capitol întreg dedicat notițelor extra lăsate de autor, în care se poate observa și o critică a latinismului exagerat. Umorul autorului este observabil până și la ultimul capitol, întitulat „Capitolul cel mai plăcut pentru cititor”, care este o simplă pagină goală.
+Subiectele abordate sunt diverse și vaste, chiar dacă se învârt în jurul vânătoarei. Opera începe cu scena descrierii câmpiei Bărăganului, văzută precum un miraj, ca celebra _fata morgana_: _„[...] aerul, resfirat în unde diafane sub arșița soarelui de vară, oglindește ierburile și bălțile din depărtare și le preface, dinaintea vederii fermecate, în cetăți cu mii de minarete, în palate cu mii de încântări”_. Sunt descrise în detaliu amplu diferite picturi, sculpturi și alte opere de artă (gravura lui Dürer a sfântului Hubert, statuile zeiței Diana), subiecte filosofice legate de vânătoare -- inclusiv, denumirea unor păsări rare (grive, sturzi, cocoșari) în limbile romanice -- și chiar basme (basmul fiului de împărat cel cu noroc la vânătoare). Eseul cuprinde și o parte autobiografică, dar și un capitol întreg dedicat notițelor extra lăsate de autor, în care se poate observa și o critică a latinismului exagerat. Umorul autorului este observabil până și la ultimul capitol, întitulat „Capitolul cel mai plăcut pentru cititor”, care este o simplă pagină goală.
 
 [^pseudo]: Titlul lucrării provine din termenii grecești „pseudo” (_ψευδο_, fals) și kinĕgetikos (_κυνηγετικος_, vânătoresc).
 [^limbaj]: Un exemplu: Referindu-se la animale, Odobescu remarcă despre boi _„Și ce gânduri vor fi rumegând ei, când se simt într-astfel călcați sub picioare? Mare e limba boului, păcat că nu poate grăi!”_ (Cap. II).
@@ -213,9 +221,49 @@ Critic aspru al latinismului exagerat, Alexandru Odobescu a imaginat un meniu cu
   etc.                                                                  etc.
 
 ## Vasile Alecsandri
-Vasile Alecsandri (cc. 1818 -- 1890) este una dintre cele mai prolifice figuri literare din istoria literaturii române. Considerat de Mihai Eminescu drept „rege al poeziei”, a abordat o pletoră de genuri și specii, atât lirice cât și în proză. A adus în cadrul literaturii române o nouă specie lirică, numită _pastel_[^pastel]
+
+::: image
+![alecsandri](https://upload.wikimedia.org/wikipedia/commons/7/79/Constantin_Daniel_Stahi_-_Portretul_lui_Vasile_Alecsandri.jpg)
+Portretul lui Vasile Alecsandri realizat de pictorul Constantin Stahi.
+:::
+
+Vasile Alecsandri (cc. 1818 -- 1890) este una dintre cele mai prolifice figuri literare din istoria literaturii române. Considerat de Mihai Eminescu drept „rege al poeziei”, a abordat o pletoră de genuri și specii, atât lirice cât și în proză. Scrierile sale se remarcă atât în cadrul genului liric cât și în dramaturgie. A publicat poezii în revista _Convorbiri literare_, în care a adus totodată în cadrul literaturii române o nouă specie lirică, numită _pastel_[^pastel] și a realizat, de-asemenea, prima culegere de poezii populare din literatura română (_Poezii popolare, Balade, Cântece bătrânești_).
+
+Poezia patriotică _Deșteptarea României_, scrisă în anul 1848, reflectă multe dintre idealurile Școlii Ardelene și a curentului pașoptist. Textul este compus într-o manieră romantică prin antiteza dintre trecutul românilor și viitorul măreț al României unite, îndemnând la luptă toți românii pentru dezrobirea popoarelor vorbitoare de română și îndeplinirea unirii:
+
+| _„Voi ce stați în adormire, voi ce stați în nemișcare,_
+| _N-auziți prin somnul vostru acel glas triumfător,_
+| _Ce s-nalță pân' la ceruri din a lumei deșteptare,_
+|   _Ca o lungă salutare / Cătr-un falnic viitor?_
+| _[...]_
+| _Nu simțiți peptul vostru un dor sfânt și românesc_
+| _La cel glas de înviere, la cel glas de libertate_
+|   _Ce pătrunde și răzbate / Orice suflet omenesc?_
+| _[...]_
+| _Numai tu, popor române, să zaci vecinic în orbire?_
+| _Numai tu să fii nevrednic de-acest timp reformator?_
+| _Numai tu să nu iei parte la obșteasca înfrățire,_
+|   _La obșteasca fericire, / la obștescul viitor?”_
+
+În dramaturgie, opera lui Vasile Alecsandri iese în evidență cu drama istorică _Despot - Vodă_ (1879) și seria de comedii de moravuri _Chirițele_: 
+
+* _Chirița în Iași sau două fete ș-o neneacă_ (1850) 
+* _Chirița în provincie_ (1852)
+* _Chirița în voiagiu_ (1865)
+* _Chirița în balon_ (1875)
+
+### _Chirițele_
+
+::: image
+![chirita](https://upload.wikimedia.org/wikipedia/ro/5/59/Teodor_Corban_in_rolul_Coana_Chirita.jpg)
+Actorul Teodor Corban jucând rolul Coanei Chirița în travesti.
+:::
+
+Seria de comedii _Chirițele_ a lui Vasile Alecsandri satirizează defectele moravurilor și culturii vremii sale, în primul rând parvenitismul[^parvenit] -- rezultat al dorinței de asociere și sincronizare cu standardele culturii europene fără a le înțelege scopul sau importanța -- în cadrul comediilor reprezentat de personajul _Coana Chirița_, o moșiereasă „mondenă”. Comicul este realizat prin contrastul substanțial între aspirațiile grandioase ale Coanei Chirița și realitate.
 
 [^pastel]: [Pastelul](https://ro.wikipedia.org/wiki/Pastel) este o operă lirică aparținând literaturii culte care, prin intermediul unui peisaj, transmite sentimentele eului liric contemplator. Termenul provine din artele plastice, unde desemnează un creion colorat moale, care era deseori utilizat pentru desenarea peisajelor.
+
+[^parvenit]: Parvenitismul este dorința de a urca, fără merite deosebite, fie prin mijloace maloneste sau dintr-o situație material, socială sau politică avantajoasă, în pătura socială înaltă.
 
 ## Nicolae Filimon
 Nicolae Filimon (1819 -- 1865) este considerat autorul primului roman realist izbutit din literatura română (_Ciocoii vechi și noi_) și întemeietorul acestui gen de roman în cadrul literaturii române.
